@@ -9674,5 +9674,105 @@
         "url": "https://www.timesnownews.com/world/middle-east/iran-us-war-live-updates-trump-us-israel-ceasefire-blockade-khamenei-netanyahu-war-strait-of-hormuz-crude-oil-latest-news-liveblog-154215441"
       }
     ]
+  },
+  {
+    "date": "2026-05-01",
+    "time": "evening",
+    "side": "diplomacy",
+    "title": "Iran sends new peace proposal through Pakistan but Trump says he is not satisfied",
+    "detail": "Iran delivered a new negotiating proposal to the United States through Pakistani mediators, according to Iranian state media and a Pakistani official, but President Trump told reporters he was “not satisfied” and said Tehran was asking for things he could not accept. Reuters reported Trump praised Pakistan’s mediation and said phone negotiations were continuing, while Iran’s foreign minister said Tehran was ready for diplomacy if Washington changed its “excessive approach” but that Iranian forces remained ready for any renewed attack.",
+    "lat": 33.6844,
+    "lng": 73.0479,
+    "tid": "iran-new-proposal-pakistan-trump-not-satisfied-may1",
+    "tn": "Iran proposal rejected",
+    "dmg": 0,
+    "cas": 0,
+    "dl": "STRATEGIC — A fresh Pakistan-mediated proposal shows diplomacy is still alive, but Trump’s rejection keeps the ceasefire fragile and the Hormuz blockade unresolved",
+    "dc": "dmg-strategic",
+    "sources": [
+      {
+        "name": "Reuters, May 1",
+        "url": "https://www.reuters.com/world/asia-pacific/uae-says-iran-cannot-be-trusted-over-hormuz-peace-efforts-an-impasse-2026-05-01/"
+      },
+      {
+        "name": "The Hindu live updates, May 1",
+        "url": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-may-1-2026/article70927343.ece"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-01",
+    "time": "evening",
+    "side": "us",
+    "title": "U.S. warns shippers not to pay Iranian Hormuz tolls, even through charities",
+    "detail": "The U.S. Treasury’s OFAC warned U.S. and non-U.S. shippers that paying Iran for safe passage through the Strait of Hormuz could trigger sanctions regardless of payment method, including fiat currency, digital assets, offsets, informal swaps or nominal donations to groups such as the Iranian Red Crescent. The advisory followed Iranian proposals for tolls or fees as part of a war-ending arrangement and reports that at least one $2 million safe-passage payment had already been made.",
+    "lat": 26.5667,
+    "lng": 56.25,
+    "tid": "ofac-warns-hormuz-toll-payments-sanctions-may1",
+    "tn": "OFAC Hormuz toll warning",
+    "dmg": 0,
+    "cas": 0,
+    "dl": "STRATEGIC — Washington is trying to prevent Iran from monetizing control of Hormuz, making any private workaround legally risky and hardening the blockade standoff",
+    "dc": "dmg-strategic",
+    "sources": [
+      {
+        "name": "Reuters, May 1",
+        "url": "https://www.reuters.com/world/middle-east/us-treasury-warns-shippers-not-pay-hormuz-tolls-even-form-charity-2026-05-01/"
+      },
+      {
+        "name": "Hindustan Times live updates, May 1",
+        "url": "https://www.hindustantimes.com/world-news/us-iran-war-news-live-updates-tehran-donald-trump-pete-hegseth-white-house-strikes-missile-ceasefire-101777598095874.html"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-01",
+    "time": "evening",
+    "side": "israel",
+    "title": "Israel strikes southern Lebanon as Hezbollah drone wounds two Israeli soldiers",
+    "detail": "Israel carried out new airstrikes across southern Lebanon despite the extended ceasefire, with Lebanon’s Health Ministry saying at least 10 people were killed, including six in Habboush near Nabatiyeh and four in other southern villages. Hezbollah said it launched rockets and drones at Israeli military positions, and Israel’s military confirmed an explosive drone fell near the border; Israeli media reported two soldiers were lightly wounded in a separate drone impact near Margaliot.",
+    "lat": 33.4073,
+    "lng": 35.4817,
+    "tid": "israel-south-lebanon-strikes-hezbollah-drone-wounds-soldiers-may1",
+    "tn": "South Lebanon ceasefire breaches",
+    "dmg": 0,
+    "cas": 20,
+    "dl": "HEAVY — The Lebanon front continues to produce lethal exchanges under a nominal ceasefire, with both Israeli airstrikes and Hezbollah drones expanding the risk of renewed escalation",
+    "dc": "dmg-heavy",
+    "sources": [
+      {
+        "name": "AP via ClickOnDetroit, May 1",
+        "url": "https://www.clickondetroit.com/news/world/2026/05/01/israel-strikes-southern-lebanon-killing-4-hezbollah-drone-wounds-2-israeli-soldiers/"
+      },
+      {
+        "name": "The Hindu live updates, May 1",
+        "url": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-may-1-2026/article70927343.ece"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-01",
+    "time": "evening",
+    "side": "iran",
+    "title": "Khamenei calls for economic battle as blockade pressure and inflation mount",
+    "detail": "Iran’s supreme leader Ayatollah Mojtaba Khamenei urged Iranians to wage an “economic and cultural jihad” to disappoint and defeat enemies, calling for priority consumption of domestic goods and asking owners of damaged businesses to avoid layoffs. The statement came as U.S. port blockades disrupted Iranian oil shipments and The Hindu/AFP cited official data showing inflation had risen past 50% in recent weeks.",
+    "lat": 35.6892,
+    "lng": 51.389,
+    "tid": "khamenei-economic-battle-blockade-inflation-may1",
+    "tn": "Khamenei economic jihad call",
+    "dmg": 0,
+    "cas": 0,
+    "dl": "STRATEGIC — Tehran is framing the war’s economic shock as a domestic mobilization campaign, signaling sustained pressure from sanctions, damaged businesses and oil-export disruption",
+    "dc": "dmg-strategic",
+    "sources": [
+      {
+        "name": "The Hindu live updates / AFP, May 1",
+        "url": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-may-1-2026/article70927343.ece"
+      },
+      {
+        "name": "Reuters, May 1",
+        "url": "https://www.reuters.com/world/asia-pacific/uae-says-iran-cannot-be-trusted-over-hormuz-peace-efforts-an-impasse-2026-05-01/"
+      }
+    ]
   }
 ]
