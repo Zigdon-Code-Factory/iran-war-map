@@ -9774,5 +9774,30 @@
         "url": "https://www.reuters.com/world/asia-pacific/uae-says-iran-cannot-be-trusted-over-hormuz-peace-efforts-an-impasse-2026-05-01/"
       }
     ]
+  },
+  {
+    "tid": "us-sanctions-iran-shadow-banking-exchange-houses-may1",
+    "date": "2026-05-01",
+    "time": "evening",
+    "lat": 35.6892,
+    "lng": 51.389,
+    "side": "us",
+    "title": "U.S. sanctions Iranian exchange houses over shadow-banking war finance",
+    "tn": "Iran shadow-banking sanctions",
+    "detail": "The U.S. Treasury's OFAC designated three Iranian foreign currency exchange houses — Opal Exchange, Radin Exchange and Tahayyori / Arz Iran Exchange — along with associated owners and front companies under the Economic Fury campaign. Treasury said the networks convert oil revenues, often settled in Chinese yuan, into usable foreign currency for Iranian banks, the military and partners or proxies, moving billions of dollars through shadow-banking channels despite sanctions.",
+    "dc": "dmg-strategic",
+    "dl": "STRATEGIC — Washington is expanding the Iran-war pressure campaign from shipping and oil logistics into Tehran's currency-conversion networks, aiming to cut off funds that sustain the military and sanctions evasion",
+    "cas": 0,
+    "dmg": 0,
+    "sources": [
+      {
+        "name": "U.S. Treasury, May 1",
+        "url": "https://home.treasury.gov/news/press-releases/sb0483"
+      },
+      {
+        "name": "The Hindu liveblog, May 2 01:37 IST",
+        "url": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-may-1-2026/article70927343.ece"
+      }
+    ]
   }
 ]
