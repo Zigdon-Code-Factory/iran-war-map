@@ -9063,8 +9063,8 @@
     "side": "us",
     "title": "Iran denounces U.S. seizure of two Iranian-linked oil tankers",
     "detail": "Iran's Foreign Ministry condemned the U.S. seizure of two tankers loaded with Iranian oil as piracy and armed robbery, after U.S. officials publicized the action as part of maritime law-enforcement and blockade pressure. The dispute sharpened the naval dimension of the war as the United States continued blocking Iranian exports while Iran kept restrictions around Hormuz.",
-    "lat": 25.0,
-    "lng": 57.0,
+    "lat": 25,
+    "lng": 57,
     "tid": "iran-denounces-us-seizure-iranian-linked-tankers-apr27",
     "tn": "Arabian Sea tanker seizures",
     "dmg": 25,
@@ -9084,8 +9084,8 @@
     "side": "us",
     "title": "Marines board M/V Blue Star III during blockade enforcement",
     "detail": "U.S. Central Command said Marines from the 31st Marine Expeditionary Unit boarded the commercial vessel M/V Blue Star III in the Arabian Sea on suspicion it was trying to reach Iran in violation of the U.S. blockade. The ship was released after inspection confirmed it would not make an Iranian port call, while CENTCOM said 39 vessels had been redirected to ensure compliance.",
-    "lat": 22.0,
-    "lng": 62.0,
+    "lat": 22,
+    "lng": 62,
     "tid": "us-marines-board-blue-star-iii-arabian-sea-apr28",
     "tn": "M/V Blue Star III boarding",
     "dmg": 15,
@@ -9577,8 +9577,8 @@
     "side": "us",
     "title": "CENTCOM says 45 commercial vessels have been turned back under Iran blockade",
     "detail": "U.S. Central Command said U.S. forces enforcing the naval blockade of Iranian ports had directed 45 commercial vessels to turn around or return to port. The figure gave the clearest public scale marker yet for the blockade's maritime enforcement as diplomacy over Hormuz and Iran's oil exports remained stalled.",
-    "lat": 27.0,
-    "lng": 52.0,
+    "lat": 27,
+    "lng": 52,
     "tid": "centcom-45-vessels-turned-back-iran-blockade-may1",
     "tn": "45 vessels turned back",
     "dmg": 0,
@@ -9597,6 +9597,81 @@
       {
         "name": "Fox News live updates, May 1",
         "url": "https://www.foxnews.com/live-news/iran-war-trump-blockade-strait-hormuz-oil-prices-may-1"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-01",
+    "time": "evening",
+    "side": "us",
+    "title": "U.S. Navy expands AI mine-hunting program for Hormuz threat",
+    "detail": "Reuters reported that the U.S. Navy awarded Domino Data Lab a contract worth up to $99.7 million to expand Project AMMO, an accelerated machine-learning program intended to make underwater mine detection faster, more accurate and less dependent on sailors and ships. The award came as Navy planners prioritized options for clearing Iranian mines in the Strait of Hormuz during the blockade crisis.",
+    "lat": 26.5667,
+    "lng": 56.25,
+    "tid": "us-navy-ai-mine-hunting-hormuz-domino-may1",
+    "tn": "U.S. AI mine-hunting push",
+    "dmg": 0,
+    "cas": 0,
+    "dl": "STRATEGIC — Washington is investing in faster mine-clearance capacity for Hormuz, signaling preparation for a prolonged or potentially contested reopening of the strait",
+    "dc": "dmg-strategic",
+    "sources": [
+      {
+        "name": "Reuters, May 1",
+        "url": "https://www.reuters.com/world/middle-east/us-navy-turns-ai-firm-domino-options-counter-iranian-mines-2026-05-01/"
+      },
+      {
+        "name": "Fox News live updates, May 1",
+        "url": "https://www.foxnews.com/live-news/iran-war-trump-blockade-strait-hormuz-oil-prices-may-1"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-01",
+    "time": "evening",
+    "side": "iran",
+    "title": "CNN investigation says Iran and allies damaged 16 U.S. military sites",
+    "detail": "CNN reported, based on satellite imagery and interviews with U.S. and Gulf officials, that Iran and allied forces damaged at least 16 U.S. military installations across eight Middle Eastern countries during the war, including radar, communications and aircraft systems. The investigation said some facilities were severely degraded or partially unusable, with internal U.S. cost estimates reportedly reaching $40 billion to $50 billion despite a lower public Pentagon figure.",
+    "lat": 25.2854,
+    "lng": 51.531,
+    "tid": "cnn-iran-allies-damaged-16-us-military-sites-may1",
+    "tn": "16 U.S. sites damaged",
+    "dmg": 16,
+    "cas": 0,
+    "dl": "MAJOR — The assessment indicates Iran’s strike campaign caused broader damage to U.S. regional basing than previously visible, especially to high-value radar and communications infrastructure",
+    "dc": "dmg-major",
+    "sources": [
+      {
+        "name": "CNN, May 1",
+        "url": "https://www.cnn.com/2026/05/01/world/video/us-military-bases-iran-strikes-images-invs-digvid"
+      },
+      {
+        "name": "Times of India, May 1",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/never-seen-anything-like-this-before-iran-damaged-16-us-bases-across-8-middle-east-nations-says-report/articleshow/130681274.cms"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-01",
+    "time": "evening",
+    "side": "us",
+    "title": "Trump says U.S.-supplied weapons sent through Kurds did not reach Iran protesters",
+    "detail": "President Trump said the U.S. had sent a small amount of weapons through Kurdish intermediaries during the Iranian protest wave earlier in the year, but that he was “not happy” with the delivery and believed the Kurds kept them. Times Now reported Trump identified Sulaymaniyah as the transfer point, while a Kurdish opposition spokesman separately told Fox News that his group did not receive weapons during the demonstrations.",
+    "lat": 35.557,
+    "lng": 45.435,
+    "tid": "trump-kurdish-weapons-iran-protests-delivery-may1",
+    "tn": "Kurdish weapons dispute",
+    "dmg": 0,
+    "cas": 0,
+    "dl": "STRATEGIC — Trump’s comments expose a disputed covert-support channel tied to Iran’s protest front and could strain Kurdish intermediaries as Washington weighs renewed pressure on Tehran",
+    "dc": "dmg-strategic",
+    "sources": [
+      {
+        "name": "Fox News live updates, May 1",
+        "url": "https://www.foxnews.com/live-news/iran-war-trump-blockade-strait-hormuz-oil-prices-may-1"
+      },
+      {
+        "name": "Times Now liveblog, May 1",
+        "url": "https://www.timesnownews.com/world/middle-east/iran-us-war-live-updates-trump-us-israel-ceasefire-blockade-khamenei-netanyahu-war-strait-of-hormuz-crude-oil-latest-news-liveblog-154215441"
       }
     ]
   }
