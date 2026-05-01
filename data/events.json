@@ -9799,5 +9799,59 @@
         "url": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-may-1-2026/article70927343.ece"
       }
     ]
+  },
+  {
+    "tid": "uss-gerald-ford-departs-middle-east-blockade-posture-may1",
+    "date": "2026-05-01",
+    "time": "evening",
+    "lat": 20.0,
+    "lng": 38.5,
+    "side": "us",
+    "title": "USS Gerald R. Ford leaves Middle East as U.S. maintains Iran blockade",
+    "tn": "Ford carrier exits region",
+    "detail": "The USS Gerald R. Ford carrier strike group departed the Middle East after an unusually long deployment tied to Iran-war operations, with reports saying it had moved into the U.S. European Command area and was expected to return to Norfolk around mid-May. The move reduces one layer of U.S. carrier firepower near Iran, though live updates and regional reporting said roughly 20 U.S. Navy ships, including the Abraham Lincoln and George H.W. Bush carrier groups, remained deployed to enforce the blockade and pressure Tehran over Hormuz.",
+    "dc": "dmg-strategic",
+    "dl": "STRATEGIC — The Ford's departure slightly thins U.S. naval surge capacity while leaving the blockade architecture intact, showing Washington is balancing crew strain and maintenance needs against continued coercive pressure on Iran",
+    "cas": 0,
+    "dmg": 0,
+    "sources": [
+      {
+        "name": "Hindustan Times liveblog, May 1",
+        "url": "https://www.hindustantimes.com/world-news/us-iran-war-news-live-updates-tehran-donald-trump-pete-hegseth-white-house-strikes-missile-ceasefire-101777598095874.html"
+      },
+      {
+        "name": "Economic Times, May 1",
+        "url": "https://economictimes.indiatimes.com/news/defence/us-iran-war-ending-or-escalating-uss-gerald-r-ford-to-head-home-from-middle-east-as-trump-weighs-fresh-strikes-on-iran/articleshow/130670292.cms"
+      }
+    ]
+  },
+  {
+    "tid": "pezeshkian-ghalibaf-seek-araghchi-ouster-irgc-talks-rift-may1",
+    "date": "2026-05-01",
+    "time": "evening",
+    "lat": 35.6892,
+    "lng": 51.389,
+    "side": "iran",
+    "title": "Report: Pezeshkian and Ghalibaf seek Araghchi ouster over IRGC role in talks",
+    "tn": "Iran talks-team rift",
+    "detail": "Iran International reported that President Masoud Pezeshkian and parliament speaker Mohammad Bagher Ghalibaf were seeking Foreign Minister Abbas Araghchi's removal, accusing him of following Revolutionary Guard chief Ahmad Vahidi's instructions in nuclear talks without keeping the president informed. Indian outlets and live coverage amplified the report as Iran's latest Pakistan-mediated proposal was reaching Washington, highlighting friction between elected officials, the foreign ministry and the IRGC over negotiation strategy.",
+    "dc": "dmg-strategic",
+    "dl": "STRATEGIC — A fight over Araghchi would expose serious command-and-control tensions inside Tehran's negotiating camp just as Iran is trying to sell a revised peace proposal and manage pressure from the blockade",
+    "cas": 0,
+    "dmg": 0,
+    "sources": [
+      {
+        "name": "Iran International, Apr 30",
+        "url": "https://www.iranintl.com/en/202604302117"
+      },
+      {
+        "name": "Indian Express, May 1",
+        "url": "https://indianexpress.com/article/world/iran-foreign-minister-abbas-araghchi-removal-pezeshkian-irgc-nuclear-talks-10665345/"
+      },
+      {
+        "name": "Hindustan Times liveblog, May 1",
+        "url": "https://www.hindustantimes.com/world-news/us-iran-war-news-live-updates-tehran-donald-trump-pete-hegseth-white-house-strikes-missile-ceasefire-101777598095874.html"
+      }
+    ]
   }
 ]
