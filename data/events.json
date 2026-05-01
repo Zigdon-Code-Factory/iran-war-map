@@ -9328,5 +9328,30 @@
         "url": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-may-1-2026/article70927343.ece"
       }
     ]
+  },
+  {
+    "date": "2026-05-01",
+    "time": "night",
+    "side": "other",
+    "title": "Saudi liquor shortage highlights Iran war shipping bottlenecks",
+    "detail": "Reuters reported that Saudi Arabia's only official alcohol shop in Riyadh had run short of beer, wine and spirits after Iran war disruption delayed shipments from Bahrain and the United Arab Emirates. Long queues and bare shelves at the diplomatic-quarter store showed the Hormuz bottleneck spilling into Gulf supply chains beyond energy cargoes.",
+    "lat": 24.7136,
+    "lng": 46.6753,
+    "tid": "saudi-liquor-shortage-iran-war-shipping-bottleneck-may1",
+    "tn": "Riyadh war-bottleneck shortage",
+    "dmg": 0,
+    "cas": 0,
+    "dl": "STRATEGIC — Hormuz and Gulf shipping disruption is now visibly affecting niche civilian supply chains in Saudi Arabia, reinforcing wider economic pressure from the war",
+    "dc": "dmg-strategic",
+    "sources": [
+      {
+        "name": "Reuters, May 1",
+        "url": "https://www.reuters.com/world/middle-east/saudi-liquor-store-runs-short-because-iran-war-bottleneck-2026-05-01/"
+      },
+      {
+        "name": "The Hindu liveblog, May 2 00:32 IST",
+        "url": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-may-1-2026/article70927343.ece"
+      }
+    ]
   }
 ]
