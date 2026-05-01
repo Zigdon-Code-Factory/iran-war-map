@@ -9265,5 +9265,68 @@
         "url": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-may-1-2026/article70927343.ece"
       }
     ]
+  },
+  {
+    "date": "2026-05-01",
+    "time": "evening",
+    "side": "hezbollah",
+    "title": "Hezbollah says it reinforced fighters and weapons in south Lebanon",
+    "detail": "Hezbollah media relations director Youssef Al Zein said the group had moved reinforcements and weapons into southern Lebanon during the battle with Israel despite earlier disarmament south of the Litani River. He said the forces did not use roads controlled by the Lebanese army and argued Israeli advances were possible because Hezbollah infrastructure south of the Litani had been destroyed, adding to signs that the Lebanon ceasefire was fraying.",
+    "lat": 33.3789,
+    "lng": 35.4838,
+    "tid": "hezbollah-reinforces-south-lebanon-despite-disarmament-may1",
+    "tn": "Hezbollah south Lebanon reinforcement claim",
+    "dmg": 20,
+    "cas": 0,
+    "dl": "MODERATE — Hezbollah reinforcement claims point to renewed force regeneration on the Lebanon front despite ceasefire and disarmament terms",
+    "dc": "dmg-moderate",
+    "sources": [
+      {
+        "name": "The Hindu liveblog, May 1 (AFP item 20:22 IST)",
+        "url": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-may-1-2026/article70927343.ece"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-01",
+    "time": "evening",
+    "side": "diplomatic",
+    "title": "China urges lasting U.S.-Iran ceasefire and reopening of Hormuz",
+    "detail": "China's U.N. ambassador Fu Cong said maintaining the Iran war ceasefire was an urgent necessity and warned against renewed attacks. He called for Iran to lift restrictions on the Strait of Hormuz and for the United States to lift its naval blockade, saying the issue would likely be high on the agenda if the strait remained closed when President Trump visits China.",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "tid": "china-un-urges-ceasefire-hormuz-reopening-may1",
+    "tn": "China UN ceasefire-Hormuz appeal",
+    "dmg": 0,
+    "cas": 0,
+    "dl": "STRATEGIC — Beijing publicly presses both sides to preserve the ceasefire and reopen Hormuz as global economic pressure mounts",
+    "dc": "dmg-strategic",
+    "sources": [
+      {
+        "name": "The Hindu liveblog, May 1 (Reuters item 22:44 IST)",
+        "url": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-may-1-2026/article70927343.ece"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-01",
+    "time": "night",
+    "side": "iran",
+    "title": "Mojtaba Khamenei calls for economic battle as blockade pressure deepens",
+    "detail": "Iranian supreme leader Ayatollah Mojtaba Khamenei urged Iranians to wage an economic and cultural battle to \"disappoint\" enemies, prioritise domestic goods, and avoid layoffs at damaged businesses. The statement came as the U.S. blockade disrupted Iranian oil shipments and inflation reportedly rose past 50%, showing Tehran shifting public messaging toward resilience under siege.",
+    "lat": 35.6892,
+    "lng": 51.389,
+    "tid": "mojtaba-khamenei-economic-battle-blockade-pressure-may1",
+    "tn": "Khamenei economic battle statement",
+    "dmg": 0,
+    "cas": 0,
+    "dl": "STRATEGIC — Iran frames blockade and sanctions as an economic war, signaling prolonged resistance rather than near-term capitulation",
+    "dc": "dmg-strategic",
+    "sources": [
+      {
+        "name": "The Hindu liveblog, May 1 (AFP item 23:37 IST)",
+        "url": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-may-1-2026/article70927343.ece"
+      }
+    ]
   }
 ]
