@@ -9449,5 +9449,51 @@
         "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-israel-lebanon-ceasefire/"
       }
     ]
+  },
+  {
+    "date": "2026-05-01",
+    "time": "afternoon",
+    "side": "us",
+    "title": "Trump formally tells Congress Iran hostilities have terminated at War Powers deadline",
+    "detail": "President Trump sent letters to House Speaker Mike Johnson and Senate president pro tempore Chuck Grassley saying there had been no exchange of fire between U.S. forces and Iran since April 7 and that the hostilities that began February 28 had terminated. The notice landed on the 60-day War Powers deadline while the U.S. blockade of Iranian ports continued and more than 50,000 U.S. service members remained deployed in the region, sharpening the legal dispute over whether the ceasefire ends or pauses congressional authorization requirements.",
+    "lat": 38.8977,
+    "lng": -77.0365,
+    "tid": "trump-congress-iran-hostilities-terminated-war-powers-may1",
+    "tn": "Trump War Powers letters",
+    "dmg": 0,
+    "cas": 0,
+    "dl": "STRATEGIC — The White House converts its War Powers argument into a formal congressional notice while retaining regional force posture and blockade pressure",
+    "dc": "dmg-strategic",
+    "sources": [
+      {
+        "name": "CBS News, May 1",
+        "url": "https://www.cbsnews.com/news/trump-iran-war-powers-act-hostilities-terminated/"
+      },
+      {
+        "name": "CBS News live updates, May 1",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-israel-lebanon-ceasefire/"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-01",
+    "time": "afternoon",
+    "side": "israel",
+    "title": "Lebanon says Israeli campaign death toll has reached 2,618",
+    "detail": "Lebanon's Ministry of Public Health said the death toll from Israel's airstrikes and ground operations in Lebanon since March 2 had reached 2,618, with 8,094 wounded, including at least 184 children and 296 women killed as of Thursday. Israel says it is targeting Hezbollah and has continued evacuation orders and operations in the south, while Hezbollah and Israeli forces accuse each other of violating the April 17 ceasefire.",
+    "lat": 33.8547,
+    "lng": 35.8623,
+    "tid": "lebanon-health-ministry-israeli-campaign-toll-2618-may1",
+    "tn": "Lebanon campaign toll update",
+    "dmg": 0,
+    "cas": 2618,
+    "dl": "HEAVY — The Lebanon front's cumulative civilian and military toll underscores that the Israel-Hezbollah war is continuing despite ceasefire claims",
+    "dc": "dmg-heavy",
+    "sources": [
+      {
+        "name": "CBS News live updates, May 1",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-israel-lebanon-ceasefire/"
+      }
+    ]
   }
 ]
