@@ -9399,5 +9399,55 @@
         "url": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-may-1-2026/article70927343.ece"
       }
     ]
+  },
+  {
+    "date": "2026-05-01",
+    "time": "afternoon",
+    "side": "us",
+    "title": "U.S. Treasury warns shippers not to pay Iran Hormuz tolls",
+    "detail": "The U.S. Treasury's OFAC warned that any U.S. or foreign shipper paying Iran for safe passage through the Strait of Hormuz could face sanctions, including payments disguised as charitable donations to the Iranian Red Crescent, Bonyad Mostazafan or embassy accounts. Reuters reported the advisory as Iran's latest proposal left toll or fee demands tied to reopening the strait, with at least one reported $2 million payment already made for transit.",
+    "lat": 26.5667,
+    "lng": 56.25,
+    "tid": "us-treasury-warns-hormuz-toll-sanctions-may1",
+    "tn": "Hormuz toll sanctions warning",
+    "dmg": 0,
+    "cas": 0,
+    "dl": "STRATEGIC — Washington is trying to deny Tehran revenue and leverage from any partial Hormuz reopening, making shipping companies choose between Iranian passage demands and U.S. sanctions risk",
+    "dc": "dmg-strategic",
+    "sources": [
+      {
+        "name": "Reuters, May 1",
+        "url": "https://www.reuters.com/world/middle-east/us-treasury-warns-shippers-not-pay-hormuz-tolls-even-form-charity-2026-05-01/"
+      },
+      {
+        "name": "CBS News live updates, May 1",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-israel-lebanon-ceasefire/"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-01",
+    "time": "afternoon",
+    "side": "us",
+    "title": "U.S. sanctions Qingdao terminal and dark-fleet tanker over Iranian oil",
+    "detail": "The U.S. State Department sanctioned Qingdao Haiye Oil Terminal Co., its president Xinchun Li, vessel managers and the Panama-flagged tanker New Fusion, accusing the network of handling tens of millions of barrels of sanctioned Iranian crude and petroleum products through ship-to-ship transfers and dark-fleet operations. The move marked another round of Economic Fury pressure aimed at Iran's oil revenues even as ceasefire diplomacy remained stalled.",
+    "lat": 36.0671,
+    "lng": 120.3826,
+    "tid": "us-sanctions-qingdao-terminal-new-fusion-iran-oil-may1",
+    "tn": "Qingdao / New Fusion sanctions",
+    "dmg": 0,
+    "cas": 0,
+    "dl": "STRATEGIC — The U.S. is extending Iran-war economic pressure deeper into China's oil logistics network, raising the cost of sanctions evasion during the Hormuz blockade standoff",
+    "dc": "dmg-strategic",
+    "sources": [
+      {
+        "name": "U.S. State Department, May 1",
+        "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/united-states-sanctions-network-facilitating-irans-illicit-oil-trade/"
+      },
+      {
+        "name": "CBS News live updates, May 1",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-israel-lebanon-ceasefire/"
+      }
+    ]
   }
 ]
