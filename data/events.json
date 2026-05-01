@@ -9151,6 +9151,27 @@
   },
   {
     "date": "2026-04-30",
+    "time": "daytime",
+    "side": "us",
+    "title": "U.S. seeks to loan 92.5 million barrels from strategic reserve",
+    "detail": "The Trump administration solicited exchanges for up to 92.5 million barrels of crude oil from the Strategic Petroleum Reserve, saying the loan program was meant to calm oil markets that had spiked because of the Iran war and Hormuz disruption. The emergency market intervention underscored how the conflict was feeding through global fuel prices even while the military ceasefire held.",
+    "lat": 38.8977,
+    "lng": -77.0365,
+    "tid": "us-spr-925-million-barrel-loan-iran-war-oil-apr30",
+    "tn": "SPR 92.5m-barrel loan",
+    "dmg": 0,
+    "cas": 0,
+    "dl": "STRATEGIC — Washington is tapping strategic oil reserves at major scale to blunt the energy shock from the Iran war and Hormuz closure",
+    "dc": "dmg-strategic",
+    "sources": [
+      {
+        "name": "Reuters, Apr. 30",
+        "url": "https://www.reuters.com/business/energy/us-solicits-exchange-up-925-million-barrels-strategic-petroleum-reserve-2026-04-30/"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-30",
     "time": "night",
     "side": "iran",
     "title": "Tehran air defenses activate against small aircraft and drones",
@@ -9192,6 +9213,31 @@
       {
         "name": "Reuters Iran latest",
         "url": "https://www.reuters.com/world/iran/"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-01",
+    "time": "morning",
+    "side": "iran",
+    "title": "IRGC warns renewed U.S. attacks would bring 'long and painful strikes'",
+    "detail": "A senior Iranian Revolutionary Guards official warned that any renewed U.S. attack on Iran, even a limited one, would trigger 'long and painful strikes' on American positions in the region. The warning, paired with Tehran's continued claim over the Strait of Hormuz, complicated U.S.-led efforts to build a maritime coalition and raised the stakes around stalled ceasefire talks.",
+    "lat": 35.6892,
+    "lng": 51.389,
+    "tid": "irgc-warns-long-painful-strikes-us-renews-attacks-may1",
+    "tn": "IRGC threat to U.S. forces",
+    "dmg": 0,
+    "cas": 0,
+    "dl": "THREAT — Iran is publicly threatening sustained strikes on U.S. regional positions if Washington resumes attacks, increasing escalation risk around the blockade standoff",
+    "dc": "dmg-strategic",
+    "sources": [
+      {
+        "name": "Reuters via West Hawaii Today, May 1",
+        "url": "https://www.westhawaiitoday.com/2026/05/01/nation-world-news/iran-threatens-painful-response-if-us-renews-attacks/"
+      },
+      {
+        "name": "Fox News live updates, May 1",
+        "url": "https://www.foxnews.com/live-news/iran-war-trump-blockade-strait-hormuz-oil-prices-may-1"
       }
     ]
   },
@@ -9248,21 +9294,25 @@
   {
     "date": "2026-05-01",
     "time": "afternoon",
-    "side": "hezbollah",
-    "title": "Hezbollah drone and rocket attacks wound Israeli soldiers as Israel strikes south Lebanon",
-    "detail": "Hezbollah issued multiple statements saying it launched drones and rockets at Israeli military positions, and Israel confirmed an explosive drone fell near the northern border; Israeli media reported at least two soldiers wounded. Israel carried out several airstrikes on southern Lebanon the same day, with Lebanese reports saying four people were killed in strikes on three villages, showing the Lebanon ceasefire continuing to fray.",
+    "side": "israel",
+    "title": "Israel and Hezbollah trade new strikes despite Lebanon ceasefire",
+    "detail": "Israel carried out several airstrikes on southern Lebanon, killing at least four people in three villages, while Hezbollah said it launched rockets and drones at Israeli military positions. Israeli media reported a drone strike near Margaliot caused a fire and two Israeli soldiers were lightly wounded by a separate Hezbollah drone impact, underscoring the continued erosion of the April 17 ceasefire.",
     "lat": 33.277,
     "lng": 35.58,
     "tid": "hezbollah-drone-rockets-israel-strikes-south-lebanon-may1",
     "tn": "Northern Israel-south Lebanon exchanges",
-    "dmg": 30,
+    "dmg": 4,
     "cas": 6,
-    "dl": "HEAVY — Reciprocal attacks and casualties show the Hezbollah-Israel front escalating beneath the wider Iran ceasefire",
+    "dl": "HEAVY — The Lebanon ceasefire is fraying into active cross-border exchanges, with fresh Lebanese fatalities and Israeli military casualties on the same day",
     "dc": "dmg-heavy",
     "sources": [
       {
         "name": "The Hindu liveblog, May 1",
         "url": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-may-1-2026/article70927343.ece"
+      },
+      {
+        "name": "AP News, May 1",
+        "url": "https://apnews.com/article/lebanon-israel-airstrikes-drones-tyre-hezbollah-ceasefire-329f63997fe92030af18c770eb212fc7"
       }
     ]
   },
@@ -9493,6 +9543,60 @@
       {
         "name": "CBS News live updates, May 1",
         "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-israel-lebanon-ceasefire/"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-01",
+    "time": "evening",
+    "side": "iran",
+    "title": "Fourteen Iranian soldiers killed clearing unexploded ordnance in Zanjan",
+    "detail": "Local media reported that 14 Iranian soldiers were killed and two wounded during operations to defuse unexploded ordnance in northwestern Zanjan province. Officials said IRGC teams were clearing cluster-munition contamination from recent airstrikes, including around 1,200 hectares of agricultural land, and had already neutralized more than 15,000 explosive items before the deadly incident.",
+    "lat": 36.6769,
+    "lng": 48.4963,
+    "tid": "zanjan-unexploded-ordnance-kills-14-soldiers-may1",
+    "tn": "Zanjan UXO deaths",
+    "dmg": 0,
+    "cas": 16,
+    "dl": "HEAVY — Unexploded ordnance from the air campaign is now causing significant post-strike military casualties and long-term contamination risks in Iran's northwest",
+    "dc": "dmg-heavy",
+    "sources": [
+      {
+        "name": "Times of India liveblog, May 2 00:40 IST",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-iran-war-news-live-updates-ceasefire-donald-trump-shehbaz-sharif-abbas-aragchi-iran-talks-strait-of-hormuz-blockade-impact-oil-crisis-latest-updates/liveblog/130593667.cms"
+      },
+      {
+        "name": "AFP via NAMPA, May 1",
+        "url": "https://www.nampa.org/text/22920397"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-01",
+    "time": "evening",
+    "side": "us",
+    "title": "CENTCOM says 45 commercial vessels have been turned back under Iran blockade",
+    "detail": "U.S. Central Command said U.S. forces enforcing the naval blockade of Iranian ports had directed 45 commercial vessels to turn around or return to port. The figure gave the clearest public scale marker yet for the blockade's maritime enforcement as diplomacy over Hormuz and Iran's oil exports remained stalled.",
+    "lat": 27.0,
+    "lng": 52.0,
+    "tid": "centcom-45-vessels-turned-back-iran-blockade-may1",
+    "tn": "45 vessels turned back",
+    "dmg": 0,
+    "cas": 0,
+    "dl": "STRATEGIC — The U.S. blockade is visibly constraining commercial traffic at scale, adding maritime and economic pressure while raising risks of shipping incidents",
+    "dc": "dmg-strategic",
+    "sources": [
+      {
+        "name": "ABC News live updates, May 1",
+        "url": "https://abc7.com/live-updates/iran-war-today-trump-straight-of-hormuz-us-ceasefire-talks/18979096/"
+      },
+      {
+        "name": "Times of India liveblog, May 1 23:03 IST",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-iran-war-news-live-updates-ceasefire-donald-trump-shehbaz-sharif-abbas-aragchi-iran-talks-strait-of-hormuz-blockade-impact-oil-crisis-latest-updates/liveblog/130593667.cms"
+      },
+      {
+        "name": "Fox News live updates, May 1",
+        "url": "https://www.foxnews.com/live-news/iran-war-trump-blockade-strait-hormuz-oil-prices-may-1"
       }
     ]
   }
