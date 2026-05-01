@@ -9353,5 +9353,51 @@
         "url": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-may-1-2026/article70927343.ece"
       }
     ]
+  },
+  {
+    "date": "2026-05-01",
+    "time": "afternoon",
+    "side": "other",
+    "title": "UNHCR says Iran war shipping disruption is delaying refugee aid",
+    "detail": "Reuters reported that UNHCR warned the Iran war had more than doubled the cost of sending some aid to Sudan and was delaying deliveries by weeks. Insecurity around the Strait of Hormuz, port congestion, higher fuel prices and war-risk insurance pushed a 2,018-ton relief shipment cost estimate from $927,000 to $1.87 million, forcing reroutes through Jordan and Oman while the agency remained severely underfunded.",
+    "lat": 46.2044,
+    "lng": 6.1432,
+    "tid": "unhcr-iran-war-shipping-disrupts-sudan-aid-may1",
+    "tn": "UNHCR aid-shipping warning",
+    "dmg": 0,
+    "cas": 0,
+    "dl": "STRATEGIC — Hormuz disruption is now materially slowing humanitarian logistics beyond the Gulf, widening the war's civilian impact despite the ceasefire",
+    "dc": "dmg-strategic",
+    "sources": [
+      {
+        "name": "Reuters, May 1",
+        "url": "https://www.reuters.com/world/middle-east/iran-crisis-hampering-aid-refugees-supply-chain-costs-soar-un-warns-2026-05-01/"
+      },
+      {
+        "name": "The Hindu liveblog, May 1 (Reuters item 18:17 IST)",
+        "url": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-may-1-2026/article70927343.ece"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-01",
+    "time": "afternoon",
+    "side": "diplomatic",
+    "title": "UN chief warns Hormuz curbs are strangling the global economy",
+    "detail": "U.N. Secretary-General Antonio Guterres warned that the consequences of the West Asia war were growing dramatically worse, saying restrictions on navigational rights around the Strait of Hormuz were disrupting energy, transport, manufacturing and food markets and 'strangling' the global economy. He called for dialogue and measures to open a pathway back from the brink.",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "tid": "un-chief-hormuz-curbs-strangle-global-economy-may1",
+    "tn": "UN Hormuz economy warning",
+    "dmg": 0,
+    "cas": 0,
+    "dl": "STRATEGIC — The U.N. frames the Hormuz closure as a broad global economic threat, increasing diplomatic pressure on both Washington and Tehran",
+    "dc": "dmg-strategic",
+    "sources": [
+      {
+        "name": "The Hindu liveblog, May 1 (UN chief item 19:16 IST)",
+        "url": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-may-1-2026/article70927343.ece"
+      }
+    ]
   }
 ]
