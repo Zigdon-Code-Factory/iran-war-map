@@ -49,6 +49,12 @@
         "source": "Vantor",
         "captureDate": "2026-03-01",
         "description": "Reuters satellite gallery shows the destroyed residence complex belonging to Ali Khamenei in Tehran"
+      },
+      {
+        "url": "https://images.ctfassets.net/txzhex5a1q7n/Ypt1agqlflVU4Nuwdmvy5/ea644fa0a102122147a5e93ba52c5277/Satellite_Images_of_Iran.webp",
+        "source": "Satellogic via SkyFi",
+        "captureDate": "2026-02-28",
+        "description": "Annotated Satellogic imagery delivered through SkyFi shows damage to Khamenei's compound in Tehran (SkyFi article)"
       }
     ]
   },
@@ -181,6 +187,12 @@
         "source": "Planet Labs PBC",
         "captureDate": "2026-03-02",
         "description": "Bandar Abbas harbour and a vessel hit in an airstrike after the opening strikes on Iranian naval assets"
+      },
+      {
+        "url": "https://www.businessinsider.com/satellite-image-show-iran-warship-smoking-airstrikes-2026-3",
+        "source": "Planet Labs PBC",
+        "captureDate": "2026-03-02",
+        "description": "Planet Labs imagery shows a massive smoke plume from the IRINS Makran burning at Bandar Abbas"
       }
     ]
   },
@@ -809,6 +821,12 @@
         "source": "Vantor",
         "captureDate": "2026-03-07",
         "description": "Overview of Pickaxe Mountain tunnel complex adjacent to Natanz Nuclear Facility"
+      },
+      {
+        "url": "https://images.ctfassets.net/txzhex5a1q7n/6T5D9mHBt1fowjEgtmWQsE/648fc3b82e688361b217af584703fc6e/Converted_File.webp",
+        "source": "Vantor via SkyFi/Reuters",
+        "captureDate": "2026-03-02",
+        "description": "Vantor imagery shows destroyed entrance buildings and new building damage at the Natanz nuclear facility (SkyFi article)"
       }
     ]
   },
@@ -1146,6 +1164,12 @@
         "source": "Commercial satellite imagery (via ISW)",
         "captureDate": "2026-03-30",
         "description": "Extensive damage at Iran Shipbuilding and Offshore Industries Complex (ISOICO) west of Bandar Abbas, a subsidiary of Iran's defense industrial organization"
+      },
+      {
+        "url": "https://www.npr.org/2026/03/01/nx-s1-5731528/satellite-images-iran-war-us-strikes-israel",
+        "source": "Vantor / Planet Labs PBC",
+        "captureDate": "2026-03-01",
+        "description": "NPR satellite imagery shows burning vessels, damaged hardened aircraft shelters, and destroyed drone-base buildings at Konarak"
       }
     ]
   },
@@ -1685,6 +1709,12 @@
         "source": "Planet Labs PBC",
         "captureDate": "2026-03-07",
         "description": "Damage after airstrikes targeting Mehrabad International Airport in Tehran"
+      },
+      {
+        "url": "https://www.wired.me/story/when-satellite-images-of-iran-went-dark",
+        "source": "Planet Labs PBC",
+        "captureDate": "2026-03-07",
+        "description": "Planet Labs imagery shows damage caused by air raids against Mehrabad International Airport in Tehran"
       }
     ]
   },
