@@ -193,6 +193,12 @@
         "source": "Planet Labs PBC",
         "captureDate": "2026-03-02",
         "description": "Planet Labs imagery shows a massive smoke plume from the IRINS Makran burning at Bandar Abbas"
+      },
+      {
+        "url": "https://images.ctfassets.net/txzhex5a1q7n/79KNcQhb3G0EjAh48CTY0y/c17cff9504efd39278a46bc25ad95b59/69a60f121fb3fcb42648c74d.webp",
+        "source": "Planet Labs PBC via SkyFi/Business Insider",
+        "captureDate": "2026-03-02",
+        "description": "Direct SkyFi-hosted Planet Labs image of smoke rising from the IRINS Makran at Bandar Abbas after US airstrikes"
       }
     ]
   },
@@ -1400,6 +1406,12 @@
         "source": "Vantor",
         "captureDate": "2026-03-02",
         "description": "Smoke rising from Ras Tanura oil refinery after drone attack"
+      },
+      {
+        "url": "https://images.ctfassets.net/txzhex5a1q7n/5bqtIg2qH2WkrAlKhOvM27/3b2cef37b21197c9d088aebe7789bd4b/Iran_Satellite_Image_Mar_3_2026.webp",
+        "source": "Vantor via SkyFi/Reuters",
+        "captureDate": "2026-03-02",
+        "description": "Direct SkyFi-hosted Vantor image of smoke rising from Ras Tanura oil refinery after an Iranian drone attack"
       }
     ]
   },
