@@ -9846,7 +9846,7 @@
     "tid": "uss-gerald-ford-departs-middle-east-blockade-posture-may1",
     "date": "2026-05-01",
     "time": "evening",
-    "lat": 20,
+    "lat": 20.0,
     "lng": 38.5,
     "side": "us",
     "title": "USS Gerald R. Ford leaves Middle East as U.S. maintains Iran blockade",
@@ -10213,8 +10213,8 @@
     "tid": "centcom-chief-visits-uss-tripoli-arabian-sea-blockade-may3",
     "date": "2026-05-03",
     "time": "morning",
-    "lat": 15,
-    "lng": 64,
+    "lat": 15.0,
+    "lng": 64.0,
     "side": "us",
     "title": "CENTCOM chief visits USS Tripoli in Arabian Sea as blockade pressure continues",
     "tn": "CENTCOM visits USS Tripoli",
@@ -11108,151 +11108,6 @@
       {
         "name": "Anadolu Agency, May 7",
         "url": "https://www.aa.com.tr/en/us-israel-iran-war/iran-denies-involvement-in-attack-on-south-korean-vessel-in-strait-of-hormuz/3929696"
-      }
-    ]
-  },
-  {
-    "tid": "israel-south-lebanon-strikes-kill-twelve-health-workers-may7",
-    "date": "2026-05-07",
-    "time": "daytime",
-    "lat": 33.25,
-    "lng": 35.42,
-    "side": "israel",
-    "title": "Israeli strikes in southern Lebanon kill 12, including children and a paramedic",
-    "tn": "Southern Lebanon strikes kill 12",
-    "detail": "Lebanon’s Health Ministry said a series of Israeli airstrikes in southern Lebanon killed at least 12 people, including two children and a paramedic, a day after Israel killed a Hezbollah Radwan commander in Beirut. Lebanon’s civil defense later said another rescuer was killed in an Israeli strike on a road between southern towns despite the truce.",
-    "dc": "dmg-heavy",
-    "dl": "HEAVY — Double-digit casualties and repeated rescuer deaths show the Lebanon front is continuing to escalate in parallel with the U.S.-Iran Hormuz crisis, straining ceasefire diplomacy on a second front",
-    "cas": 12,
-    "dmg": 1,
-    "sources": [
-      {
-        "name": "The Hindu live updates, May 8 7:11 and 12:09 IST",
-        "url": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-8-2026/article70953662.ece"
-      },
-      {
-        "name": "CBS News live updates, May 8 3:51 AM ET",
-        "url": "https://www.cbsnews.com/live-updates/trump-iran-war-peace-deal-strait-of-hormuz/"
-      }
-    ]
-  },
-  {
-    "tid": "imo-says-1500-ships-trapped-persian-gulf-blockade-may7",
-    "date": "2026-05-07",
-    "time": "daytime",
-    "lat": 26.6,
-    "lng": 52.5,
-    "side": "economic",
-    "title": "IMO says about 1,500 ships and 20,000 crew are trapped by the Hormuz blockade",
-    "tn": "1,500 ships trapped in Gulf",
-    "detail": "International Maritime Organization Secretary-General Arsenio Dominguez said around 1,500 ships and 20,000 crew members were trapped in the Persian Gulf by the Iranian blockade of the Strait of Hormuz. Oil prices reversed higher after the latest U.S.-Iran clash, while shipping companies warned the war-driven detours and fuel bills would be passed on to customers.",
-    "dc": "dmg-strategic",
-    "dl": "STRATEGIC — The trapped-fleet estimate quantifies the blockade’s global trade impact and adds pressure for either a negotiated reopening or a larger U.S.-led maritime operation",
-    "cas": 0,
-    "dmg": 0,
-    "sources": [
-      {
-        "name": "CBS News live updates, May 7 12:53 PM ET",
-        "url": "https://www.cbsnews.com/live-updates/trump-iran-war-peace-deal-strait-of-hormuz/"
-      },
-      {
-        "name": "The Hindu live updates, May 8 7:12 IST",
-        "url": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-8-2026/article70953662.ece"
-      },
-      {
-        "name": "Gulf News live updates, May 8 08:09 GST",
-        "url": "https://gulfnews.com/world/mena/us-iran-conflict-explosions-near-qeshm-island-and-bandar-abbas-and-drone-strikes-escalate-strait-of-hormuz-crisis-1.500533204"
-      }
-    ]
-  },
-  {
-    "tid": "us-strikes-bandar-abbas-qeshm-after-destroyer-attack-may7",
-    "date": "2026-05-07",
-    "time": "evening",
-    "lat": 26.75,
-    "lng": 56.15,
-    "side": "us",
-    "title": "U.S. strikes Bandar Abbas and Qeshm after Iranian attack on three destroyers in Hormuz",
-    "tn": "U.S. strikes Bandar Abbas and Qeshm",
-    "detail": "U.S. Central Command said American forces launched self-defense strikes on Iranian targets after the destroyers USS Truxtun, USS Mason and USS Rafael Peralta came under missile, drone and small-boat attack while transiting the Strait of Hormuz. U.S. officials said the strikes hit Iranian facilities including drone and missile launch sites around Bandar Abbas and Qeshm, and that none of the U.S. ships was struck.",
-    "dc": "dmg-heavy",
-    "dl": "HEAVY — Direct U.S. strikes on Iranian port-area military targets after a multi-hour attack on three destroyers are the sharpest breach of the April ceasefire and could restart open U.S.-Iran combat if diplomacy fails",
-    "cas": 0,
-    "dmg": 1,
-    "sources": [
-      {
-        "name": "CBS News live updates, May 7 5:53–6:07 PM ET",
-        "url": "https://www.cbsnews.com/live-updates/trump-iran-war-peace-deal-strait-of-hormuz/"
-      },
-      {
-        "name": "Associated Press via CityNews Halifax, May 8",
-        "url": "https://halifax.citynews.ca/2026/05/08/uae-reports-drone-and-missile-attack-as-iran-war-ceasefire-is-challenged/"
-      },
-      {
-        "name": "The Hindu live updates, May 8",
-        "url": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-8-2026/article70953662.ece"
-      }
-    ]
-  },
-  {
-    "tid": "uae-air-defenses-intercept-iranian-missiles-drones-may8",
-    "date": "2026-05-08",
-    "time": "early morning",
-    "lat": 25.1288,
-    "lng": 56.3265,
-    "side": "iran",
-    "title": "UAE air defenses activate against Iranian missile and drone attack",
-    "tn": "UAE intercepts Iranian missiles and drones",
-    "detail": "The United Arab Emirates said its air defenses were actively engaging ballistic missiles, cruise missiles and drones launched from Iran, with interception sounds heard in multiple areas including Fujairah. Authorities told residents to stay in safe places and avoid debris; no immediate damage was reported.",
-    "dc": "dmg-heavy",
-    "dl": "HEAVY — Renewed Iranian missile and drone fire at the UAE expands the ceasefire crisis beyond the Strait of Hormuz naval clash and threatens another Gulf-state escalation cycle",
-    "cas": 0,
-    "dmg": 0,
-    "sources": [
-      {
-        "name": "Associated Press via CityNews Halifax, May 8",
-        "url": "https://halifax.citynews.ca/2026/05/08/uae-reports-drone-and-missile-attack-as-iran-war-ceasefire-is-challenged/"
-      },
-      {
-        "name": "CBS News live updates, May 8 11:46 PM ET",
-        "url": "https://www.cbsnews.com/live-updates/trump-iran-war-peace-deal-strait-of-hormuz/"
-      },
-      {
-        "name": "The Hindu live updates, May 8 8:50 AM IST",
-        "url": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-8-2026/article70953662.ece"
-      },
-      {
-        "name": "Gulf News live updates, May 8 06:44 GST",
-        "url": "https://gulfnews.com/world/mena/us-iran-conflict-explosions-near-qeshm-island-and-bandar-abbas-and-drone-strikes-escalate-strait-of-hormuz-crisis-1.500533204"
-      }
-    ]
-  },
-  {
-    "tid": "iran-persian-gulf-strait-authority-tolls-hormuz-may8",
-    "date": "2026-05-08",
-    "time": "morning",
-    "lat": 26.55,
-    "lng": 56.25,
-    "side": "iran",
-    "title": "Iran formalizes Persian Gulf Strait Authority to vet and tax Hormuz passage",
-    "tn": "Iran Hormuz transit authority",
-    "detail": "Lloyd’s List Intelligence reported that Iran created a Persian Gulf Strait Authority positioning itself as the only valid body to approve ships transiting the Strait of Hormuz and collect tolls, after emailing an application form for vessels seeking passage. The UAE rejected transit fees, while the U.S. and Gulf allies pushed a U.N. Security Council resolution backing freedom of navigation and threatening sanctions.",
-    "dc": "dmg-strategic",
-    "dl": "STRATEGIC — Turning Iran’s wartime permit system into a named authority hardens the Hormuz blockade into an institutional challenge to free navigation and complicates any negotiated reopening of the strait",
-    "cas": 0,
-    "dmg": 0,
-    "sources": [
-      {
-        "name": "Associated Press via CityNews Halifax, May 8",
-        "url": "https://halifax.citynews.ca/2026/05/08/uae-reports-drone-and-missile-attack-as-iran-war-ceasefire-is-challenged/"
-      },
-      {
-        "name": "Gulf News live updates, May 8 12:51 GST",
-        "url": "https://gulfnews.com/world/mena/us-iran-conflict-explosions-near-qeshm-island-and-bandar-abbas-and-drone-strikes-escalate-strait-of-hormuz-crisis-1.500533204"
-      },
-      {
-        "name": "CBS News live updates, May 8",
-        "url": "https://www.cbsnews.com/live-updates/trump-iran-war-peace-deal-strait-of-hormuz/"
       }
     ]
   }
