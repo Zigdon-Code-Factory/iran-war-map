@@ -318,6 +318,12 @@
         "source": "Planet Labs PBC",
         "captureDate": "2026-03-04",
         "description": "Multiple radar domes appearing damaged at Camp Arifjan, Kuwait"
+      },
+      {
+        "url": "https://c.ndtvimg.com/2026-05/61sqgbtg_washington-post-investigation-_625x300_07_May_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+        "source": "Iran state-affiliated media / Planet Labs via Washington Post and NDTV",
+        "captureDate": "2026-05-06",
+        "description": "Washington Post-verified satellite image shows nine damaged fuel bladders at Ali al-Salem Air Base in Kuwait after Iranian strikes"
       }
     ]
   },
@@ -2217,6 +2223,14 @@
       {
         "name": "Wikipedia Timeline",
         "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Iran_war"
+      }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C3PAK24IRJBE5GDKFQE6U4I5WI_size-normalized.png",
+        "source": "Iran state-affiliated media / Planet Labs via Washington Post",
+        "captureDate": "2026-05-06",
+        "description": "Washington Post illustration using Iranian state-affiliated imagery and Planet background shows damage at Camp Buehring in Kuwait"
       }
     ]
   },
