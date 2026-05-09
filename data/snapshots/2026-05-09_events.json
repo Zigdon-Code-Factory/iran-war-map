@@ -11215,25 +11215,29 @@
     "lat": 25.1288,
     "lng": 56.3265,
     "side": "iran",
-    "title": "UAE says air defenses intercept Iranian missiles and drones, debris wounds three",
-    "tn": "UAE intercepts Iranian missiles; 3 wounded",
-    "detail": "The UAE Defense Ministry said its air defenses engaged two ballistic missiles and three drones launched by Iran, with falling debris moderately wounding three people. Officials said the latest attack brought UAE wartime interceptions to 551 ballistic missiles, 29 cruise missiles and 2,263 drones, with 230 people wounded and 13 killed since the war began.",
+    "title": "UAE air defenses activate against Iranian missile and drone attack",
+    "tn": "UAE intercepts Iranian missiles and drones",
+    "detail": "The United Arab Emirates said its air defenses were actively engaging ballistic missiles, cruise missiles and drones launched from Iran, with interception sounds heard in multiple areas including Fujairah. Authorities told residents to stay in safe places and avoid debris; no immediate damage was reported.",
     "dc": "dmg-heavy",
-    "dl": "HEAVY — Iranian missile and drone fire continues to hit a close U.S. Gulf ally despite the nominal ceasefire, and confirmed injuries from interception debris raise the pressure for retaliation or expanded air defense operations",
-    "cas": 3,
+    "dl": "HEAVY — Renewed Iranian missile and drone fire at the UAE expands the ceasefire crisis beyond the Strait of Hormuz naval clash and threatens another Gulf-state escalation cycle",
+    "cas": 0,
     "dmg": 0,
     "sources": [
       {
-        "name": "CBS News live updates, May 8 10:39 AM ET",
-        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-attacks-qeshm-island-ceasefire/"
+        "name": "Associated Press via CityNews Halifax, May 8",
+        "url": "https://halifax.citynews.ca/2026/05/08/uae-reports-drone-and-missile-attack-as-iran-war-ceasefire-is-challenged/"
       },
       {
-        "name": "Los Angeles Times/AP, May 8",
-        "url": "https://www.latimes.com/world-nation/story/2026-05-08/u-s-fires-on-disables-2-more-iranian-tankers-as-tensions-rise-in-strait-of-hormuz"
+        "name": "CBS News live updates, May 8 11:46 PM ET",
+        "url": "https://www.cbsnews.com/live-updates/trump-iran-war-peace-deal-strait-of-hormuz/"
       },
       {
-        "name": "The Hindu live updates, May 8",
+        "name": "The Hindu live updates, May 8 8:50 AM IST",
         "url": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-8-2026/article70953662.ece"
+      },
+      {
+        "name": "Gulf News live updates, May 8 06:44 GST",
+        "url": "https://gulfnews.com/world/mena/us-iran-conflict-explosions-near-qeshm-island-and-bandar-abbas-and-drone-strikes-escalate-strait-of-hormuz-crisis-1.500533204"
       }
     ]
   },
@@ -11263,197 +11267,6 @@
       {
         "name": "CBS News live updates, May 8",
         "url": "https://www.cbsnews.com/live-updates/trump-iran-war-peace-deal-strait-of-hormuz/"
-      }
-    ]
-  },
-  {
-    "tid": "iran-says-us-strike-minab-cargo-vessel-sailors-wounded-missing-may8",
-    "date": "2026-05-08",
-    "time": "morning",
-    "lat": 27.1467,
-    "lng": 57.0801,
-    "side": "us",
-    "title": "Iran says U.S. attack hit commercial vessel near Hormuz, killing one and wounding sailors",
-    "tn": "Iran reports commercial-ship casualties near Hormuz",
-    "detail": "Iranian media and officials said a U.S. Navy attack on an Iranian commercial/cargo vessel near the Strait of Hormuz caused the ship to catch fire, killing one crew member, wounding 10 and leaving four others missing; earlier local reports described the vessel as near Minab. Tehran cited the incident as another U.S. breach of the April ceasefire as sporadic clashes continued around the strait.",
-    "dc": "dmg-heavy",
-    "dl": "HEAVY — Reported Iranian maritime casualties from the latest U.S. actions turn the blockade clash into a human-loss incident and make reciprocal attacks more likely if the ceasefire framework keeps eroding",
-    "cas": 15,
-    "dmg": 1,
-    "sources": [
-      {
-        "name": "CBS News live updates, May 8 9:37 and 10:06 AM ET",
-        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-attacks-qeshm-island-ceasefire/"
-      },
-      {
-        "name": "The Hindu/Reuters, May 9",
-        "url": "https://www.thehindu.com/news/international/tehran-could-withstand-blockade-for-four-months-cia-report-shows-as-fighting-flares/article70958182.ece"
-      },
-      {
-        "name": "Los Angeles Times/AP, May 8",
-        "url": "https://www.latimes.com/world-nation/story/2026-05-08/u-s-fires-on-disables-2-more-iranian-tankers-as-tensions-rise-in-strait-of-hormuz"
-      }
-    ]
-  },
-  {
-    "tid": "us-disables-iranian-tankers-sea-star-sevda-blockade-may8",
-    "date": "2026-05-08",
-    "time": "late morning",
-    "lat": 25.8,
-    "lng": 57.2,
-    "side": "us",
-    "title": "U.S. F/A-18 disables Iranian tankers Sea Star III and Sevda enforcing blockade",
-    "tn": "U.S. disables two Iranian tankers",
-    "detail": "U.S. Central Command said a Navy F/A-18 Super Hornet fired precision munitions into the smokestacks of the Iranian-flagged unladen tankers M/T Sea Star III and M/T Sevda, disabling them before they could enter an Iranian port in violation of the U.S. blockade. CENTCOM said it had intercepted more than 50 vessels, with a later update saying 57 had been redirected and four disabled.",
-    "dc": "dmg-moderate",
-    "dl": "MODERATE — The tanker disablements show the U.S. blockade is being enforced with live fire against Iranian-flagged shipping even while Washington says the ceasefire still holds",
-    "cas": 0,
-    "dmg": 2,
-    "sources": [
-      {
-        "name": "CBS News live updates, May 8 11:32 AM and 1:57 PM ET",
-        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-attacks-qeshm-island-ceasefire/"
-      },
-      {
-        "name": "U.S. Central Command release, May 8",
-        "url": "https://www.centcom.mil/MEDIA/PRESS-RELEASES/Press-Release-View/Article/4480820/us-disables-2-more-vessels-violating-blockade-in-gulf-of-oman/"
-      },
-      {
-        "name": "Navy Times, May 8",
-        "url": "https://www.navytimes.com/news/your-navy/2026/05/08/us-forces-disable-iranian-flagged-tankers-trying-to-cross-blockade/"
-      },
-      {
-        "name": "Los Angeles Times/AP, May 8",
-        "url": "https://www.latimes.com/world-nation/story/2026-05-08/u-s-fires-on-disables-2-more-iranian-tankers-as-tensions-rise-in-strait-of-hormuz"
-      }
-    ]
-  },
-  {
-    "tid": "indian-dhow-fire-hormuz-one-dead-four-injured-may8",
-    "date": "2026-05-08",
-    "time": "daytime",
-    "lat": 26.4,
-    "lng": 56.4,
-    "side": "other",
-    "title": "Indian sailor killed and four injured after dhow catches fire near Strait of Hormuz",
-    "tn": "Dhow fire near Hormuz kills sailor",
-    "detail": "Indian government sources said a wooden dhow carrying general cargo with 18 Indian crew caught fire and capsized near the Strait of Hormuz on May 8. One sailor died, four suffered burn injuries and the remaining crew were rescued by a passing vessel; officials said the cause of the blaze was still being determined amid the wider U.S.-Iran clashes in the waterway.",
-    "dc": "dmg-moderate",
-    "dl": "MODERATE — Even with the cause unresolved, a fatal civilian dhow fire near Hormuz highlights the rising danger to small commercial traffic as the blockade and counter-blockade turn the strait into an active conflict zone",
-    "cas": 5,
-    "dmg": 1,
-    "sources": [
-      {
-        "name": "The Hindu, May 9",
-        "url": "https://www.thehindu.com/news/international/indian-sailor-killed-in-dhow-fire-near-strait-of-hormuz/article70958354.ece"
-      }
-    ]
-  },
-  {
-    "tid": "hezbollah-missiles-drones-northern-israel-lebanon-strikes-kill-eleven-may8",
-    "date": "2026-05-08",
-    "time": "afternoon",
-    "lat": 33.2698,
-    "lng": 35.1933,
-    "side": "hezbollah",
-    "title": "Hezbollah fires missiles and drones at northern Israel as Israeli strikes kill 11 in Lebanon",
-    "tn": "Hezbollah fires; Lebanon strikes kill 11",
-    "detail": "Hezbollah said it launched missiles at a military base south of Nahariya and later sent a drone swarm at another northern Israeli base in response to Israeli strikes on Beirut’s southern suburbs and southern Lebanon. Israel reported no casualties from the launches, while Lebanese authorities said Israeli strikes in the south killed 10 people, including two children and three women, and Lebanon’s civil defense said one rescuer was killed.",
-    "dc": "dmg-heavy",
-    "dl": "HEAVY — The exchange shows the Lebanon front is still producing daily lethal strikes despite Washington talks planned for May 14–15, keeping another Iran-linked front active during the Hormuz crisis",
-    "cas": 11,
-    "dmg": 1,
-    "sources": [
-      {
-        "name": "The Hindu/AFP, May 9 live update and report",
-        "url": "https://www.thehindu.com/news/international/us-fire-on-iran-tankers-sparks-reprisals-as-deal-hangs-in-balance/article70957189.ece"
-      },
-      {
-        "name": "CBS News live updates, May 8 1:04 and 2:16 PM ET",
-        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-attacks-qeshm-island-ceasefire/"
-      },
-      {
-        "name": "Los Angeles Times/AP, May 8",
-        "url": "https://www.latimes.com/world-nation/story/2026-05-08/u-s-fires-on-disables-2-more-iranian-tankers-as-tensions-rise-in-strait-of-hormuz"
-      }
-    ]
-  },
-  {
-    "tid": "kharg-island-oil-slick-80000-barrels-persian-gulf-may8",
-    "date": "2026-05-08",
-    "time": "afternoon",
-    "lat": 29.2383,
-    "lng": 50.3147,
-    "side": "economic",
-    "title": "Satellite images show major oil slick leaking from Iran’s Kharg Island terminal",
-    "tn": "Kharg Island oil slick detected",
-    "detail": "Satellite imagery reviewed by the Associated Press showed an oil slick of about 27 square miles emanating from the western side of Kharg Island, Iran’s main crude export terminal. Windward AI estimated roughly 80,000 barrels had spilled since the slick was first detected Tuesday, with the cause unclear and cleanup unlikely because the Persian Gulf waters are an active war zone.",
-    "dc": "dmg-strategic",
-    "dl": "STRATEGIC — A large spill from Iran’s primary export terminal adds environmental and market risk to the naval standoff and could affect Gulf states even if the cause proves accidental rather than a strike",
-    "cas": 0,
-    "dmg": 1,
-    "sources": [
-      {
-        "name": "CBS News live updates, May 8 4:16 PM ET",
-        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-attacks-qeshm-island-ceasefire/"
-      },
-      {
-        "name": "Los Angeles Times/AP, May 8",
-        "url": "https://www.latimes.com/world-nation/story/2026-05-08/u-s-fires-on-disables-2-more-iranian-tankers-as-tensions-rise-in-strait-of-hormuz"
-      }
-    ],
-    "satelliteImages": [
-      {
-        "url": "https://www.reuters.com/world/middle-east/suspected-oil-spill-seen-satellite-images-near-irans-kharg-island-export-hub-2026-05-08/",
-        "source": "Copernicus Sentinel-1/2/3 via Reuters",
-        "captureDate": "2026-05-06",
-        "description": "Sentinel imagery from May 6-8 shows a grey-white suspected oil slick west of Kharg Island covering roughly 45 sq km / 27 sq mi"
-      }
-    ]
-  },
-  {
-    "tid": "us-treasury-sanctions-iran-drone-missile-procurement-network-may8",
-    "date": "2026-05-08",
-    "time": "evening",
-    "lat": 38.8977,
-    "lng": -77.0365,
-    "side": "us",
-    "title": "U.S. sanctions Iran drone and missile procurement network under Economic Fury campaign",
-    "tn": "U.S. sanctions Iran weapons network",
-    "detail": "The U.S. Treasury imposed sanctions on 10 individuals and companies in China, Dubai, Hong Kong, Belarus and Iran accused of helping Iran procure weapons, UAV components and ballistic-missile materials, while the State Department designated four more entities. Treasury said the action targeted suppliers for Iran’s Shahed-series drone and ballistic missile programs as U.S.-Iran fighting continued around Hormuz.",
-    "dc": "dmg-strategic",
-    "dl": "STRATEGIC — Washington is pairing live-fire blockade enforcement with sanctions aimed at Iran’s drone and missile replenishment chain, signaling that maximum-pressure tools will continue even during ceasefire talks",
-    "cas": 0,
-    "dmg": 0,
-    "sources": [
-      {
-        "name": "U.S. Treasury Department press release SB0496, May 8",
-        "url": "https://home.treasury.gov/news/press-releases/sb0496"
-      },
-      {
-        "name": "CBS News live updates, May 8 8:30 PM ET",
-        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-attacks-qeshm-island-ceasefire/"
-      }
-    ]
-  },
-  {
-    "tid": "israel-evacuation-warning-nine-south-lebanon-villages-may9",
-    "date": "2026-05-09",
-    "time": "morning",
-    "lat": 33.25,
-    "lng": 35.42,
-    "side": "israel",
-    "title": "Israel orders evacuations from nine south Lebanon villages ahead of Hezbollah strikes",
-    "tn": "Israel warns nine south Lebanon villages",
-    "detail": "The Israeli military told residents of nine southern Lebanese villages to leave immediately and move at least 1,000 meters away, saying Hezbollah’s ceasefire violations required forceful action. The warning came after the May 8 Hezbollah missile and drone launches and another day of deadly Israeli strikes in southern Lebanon.",
-    "dc": "dmg-strategic",
-    "dl": "STRATEGIC — A multi-village evacuation warning signals that Israel may expand operations on the Lebanon front even as U.S.-Iran diplomacy focuses on Hormuz, increasing the risk of a wider parallel escalation",
-    "cas": 0,
-    "dmg": 0,
-    "sources": [
-      {
-        "name": "The Hindu live updates, May 9 12:03 IST",
-        "url": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-9-2026/article70958008.ece"
       }
     ]
   }
