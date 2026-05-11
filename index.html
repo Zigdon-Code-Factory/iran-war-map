@@ -162,8 +162,8 @@ body { font-family: 'Segoe UI', system-ui, sans-serif; background: #0a0e17; colo
 .sat-card-desc { font-size:12px; color:#c9d1d9; line-height:1.6; margin-bottom:12px; }
 .sat-card-link { display:inline-flex; align-items:center; gap:6px; padding:8px 14px; background:rgba(88,166,255,0.1); border:1px solid rgba(88,166,255,0.3); border-radius:8px; color:#58a6ff; text-decoration:none; font-size:12px; font-weight:500; transition:all 0.2s; }
 .sat-card-link:hover { background:rgba(88,166,255,0.2); border-color:#58a6ff; }
-.sat-badge { cursor:pointer; display:inline-block; margin-left:4px; font-size:11px; opacity:0.8; transition:opacity 0.2s; vertical-align:middle; }
-.sat-badge:hover { opacity:1; }
+.sat-badge { cursor:pointer; display:block; width:max-content; margin-top:7px; padding:5px 10px; background:rgba(88,166,255,0.1); border:1px solid rgba(88,166,255,0.3); border-radius:7px; color:#58a6ff; font-size:10px; font-weight:600; transition:all 0.2s; }
+.sat-badge:hover { background:rgba(88,166,255,0.2); border-color:#58a6ff; color:#79c0ff; }
 .popup-sat-link { display:block; margin-top:8px; padding:5px 10px; background:rgba(88,166,255,0.1); border:1px solid rgba(88,166,255,0.25); border-radius:6px; color:#58a6ff; text-decoration:none; font-size:11px; text-align:center; cursor:pointer; transition:all 0.2s; }
 .popup-sat-link:hover { background:rgba(88,166,255,0.2); border-color:#58a6ff; }
 
@@ -458,7 +458,7 @@ function render() {
         <div class="event-time">${e.time}</div>
         <div class="event-title"><span class="event-tag ${tagClasses[e.side]}">${sideLabels[e.side]}</span> ${e.title}</div>
         <div class="event-detail">${e.detail}</div>
-        ${rev?`<div class="event-damage ${e.dc}">${e.dl}${e.cas>0?' · ~'+e.cas+' killed':''}</div>${srcHtml(e.sources)}`:''}${e.satelliteImages&&e.satelliteImages.length?`<span class="sat-badge" data-sat-idx="${e.idx}" title="View satellite imagery">📡</span>`:''}`;
+        ${rev?`<div class="event-damage ${e.dc}">${e.dl}${e.cas>0?' · ~'+e.cas+' killed':''}</div>${srcHtml(e.sources)}`:''}${e.satelliteImages&&e.satelliteImages.length?`<button class="sat-badge" data-sat-idx="${e.idx}" title="View satellite imagery">📡 Satellite imagery (${e.satelliteImages.length})</button>`:''}`;
       div.addEventListener('click',()=>{currentTurn=e.idx;flyOnNext=true;render();});
       if(e.satelliteImages&&e.satelliteImages.length){const badge=div.querySelector('.sat-badge');if(badge)badge.addEventListener('click',(ev)=>{ev.stopPropagation();openSatModal(e);});}
       g.appendChild(div);
@@ -549,7 +549,7 @@ function openSatModal(evt) {
       </div>
       <div class="sat-card-body">
         <div class="sat-card-desc">${img.description}</div>
-        <a class="sat-card-link" href="${img.url}" target="_blank" rel="noopener">🛰️ View satellite image →</a>
+        <a class="sat-card-link" href="${img.url}" target="_blank" rel="noopener">🛰️ Open source image/page →</a>
       </div>
     </div>
   `).join('');
