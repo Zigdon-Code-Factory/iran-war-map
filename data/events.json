@@ -546,6 +546,12 @@
         "source": "Vantor",
         "captureDate": "2026-03-02",
         "description": "Destroyed buildings and equipment at Choqa Baulk-e Alireza drone base"
+      },
+      {
+        "url": "https://images.ctfassets.net/txzhex5a1q7n/6s5tHd84x7va6Ivtzkc3MP/de8c44dbfd5468df42b2fdac7ad8285b/Mar_3_Screenshot_from_CloudConvert.webp",
+        "source": "Planet Labs PBC via SkyFi/NPR",
+        "captureDate": "2026-03-01",
+        "description": "Direct SkyFi-hosted Planet Labs image shows collapsed tunnel entrances and destroyed buildings at a missile base near Tabriz after early-war strikes"
       }
     ]
   },
@@ -1182,6 +1188,12 @@
         "source": "Vantor / Planet Labs PBC",
         "captureDate": "2026-03-01",
         "description": "NPR satellite imagery shows burning vessels, damaged hardened aircraft shelters, and destroyed drone-base buildings at Konarak"
+      },
+      {
+        "url": "https://images.ctfassets.net/txzhex5a1q7n/79KNcQhb3G0EjAh48CTY0y/c17cff9504efd39278a46bc25ad95b59/69a60f121fb3fcb42648c74d.webp",
+        "source": "Planet Labs PBC via SkyFi/Business Insider",
+        "captureDate": "2026-03-02",
+        "description": "Direct SkyFi-hosted Planet Labs image shows IRINS Makran burning at Bandar Abbas naval base after strikes"
       }
     ]
   },
@@ -1290,6 +1302,14 @@
       {
         "name": "AP (via NCRI)",
         "url": "https://www.ncr-iran.org/en/news/iran-news-in-brief-news/iran-news-in-brief-march-9-2026/"
+      }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/satellite-images-show-damage-iranian-military-nuclear-sites-after",
+        "source": "Vantor / Planet Labs PBC via AFP",
+        "captureDate": "2026-03-04",
+        "description": "Satellite images show damage at Garmdarah missile base, Iran Air Force headquarters in Tehran, and Bandar Abbas military harbour after intensified strikes"
       }
     ]
   },
@@ -1598,6 +1618,14 @@
       {
         "name": "Wikipedia Timeline",
         "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Iran_war"
+      }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://apnews.com/article/iran-us-war-satellite-photos-damage-uae-bahrain-4b5edabf4c8cc89a56150ca4f1b7c06f",
+        "source": "Planet Labs PBC via AP",
+        "captureDate": "2026-03-06",
+        "description": "Planet Labs imagery shows damage after airstrikes targeting Iran’s Parchin military base outside Tehran"
       }
     ]
   },
