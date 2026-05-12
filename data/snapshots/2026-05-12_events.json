@@ -11592,7 +11592,7 @@
     "title": "UAE and Kuwait report drone attacks as Gulf ceasefire frays",
     "detail": "The UAE Defense Ministry said its air defenses engaged two UAVs launched from Iran, while Kuwait's army said it detected and dealt with several hostile drones in Kuwaiti airspace at dawn. The reports came the same day a drone hit a cargo vessel approaching Qatar from Abu Dhabi, with no casualties reported across the Gulf incidents.",
     "lat": 26.5,
-    "lng": 51,
+    "lng": 51.0,
     "tid": "uae-kuwait-drone-incursions-gulf-ceasefire-frays-may10",
     "tn": "UAE and Kuwait drone alerts",
     "dmg": 0,
@@ -11690,131 +11690,6 @@
       {
         "name": "Reuters, May 11 — Trump dismisses Iran's reply to peace plan, oil jumps as Hormuz closure persists",
         "url": "https://www.reuters.com/world/china/trump-rejects-irans-response-us-peace-proposal-unacceptable-2026-05-11/"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-11",
-    "time": "afternoon",
-    "side": "diplomacy",
-    "title": "Second Qatari LNG tanker heads through Hormuz under Iran-approved Pakistan deal",
-    "detail": "Reuters reported that the Qatari LNG tanker Mihzem departed Ras Laffan carrying 174,000 cubic metres of LNG toward Port Qasim, Pakistan, after Al Kharaitiyat successfully crossed the strait on May 10. The cargoes are moving under a Qatar-Pakistan arrangement approved by Iran, with two more Qatari tankers expected to attempt the passage in coming days, showing Hormuz traffic is reopening only through selective, case-by-case exemptions.",
-    "lat": 26.5667,
-    "lng": 56.25,
-    "tid": "second-qatari-lng-mihzem-iran-approved-hormuz-transit-may11",
-    "tn": "Mihzem Hormuz transit",
-    "dmg": 0,
-    "cas": 0,
-    "dl": "STRATEGIC — A second Iran-approved Qatari LNG transit turns the blockade into a controlled permit regime, giving Tehran leverage over which states and cargoes can move through Hormuz while keeping wider energy flows constrained",
-    "dc": "dmg-strategic",
-    "sources": [
-      {
-        "name": "Reuters, May 11 — Second Qatari LNG tanker heads through Hormuz to Pakistan as Iran war continues",
-        "url": "https://www.reuters.com/world/middle-east/second-qatari-lng-tanker-heads-through-hormuz-pakistan-iran-war-continues-data-2026-05-11/"
-      },
-      {
-        "name": "ISW Iran Update Special Report, May 11 — Vessels complying with Iran transit regulations",
-        "url": "https://understandingwar.org/research/middle-east/iran-update-special-report-may-11-2026/"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-11",
-    "time": "evening",
-    "side": "us",
-    "title": "U.S. sanctions IRGC oil-shipping network tied to China as Trump prepares Xi talks",
-    "detail": "The U.S. Treasury announced sanctions on three people and nine companies in Hong Kong, the UAE and Oman for allegedly helping the IRGC sell and ship Iranian oil to China through front companies. The action came days before President Trump was expected to press Xi Jinping to use Chinese leverage over Iran and help reopen the Strait of Hormuz, adding financial pressure after Tehran rejected Washington’s peace terms.",
-    "lat": 38.8977,
-    "lng": -77.0365,
-    "tid": "us-sanctions-irgc-oil-shipments-china-hong-kong-uae-oman-may11",
-    "tn": "U.S. IRGC oil sanctions",
-    "dmg": 0,
-    "cas": 0,
-    "dl": "STRATEGIC — Washington is pairing stalled ceasefire diplomacy with sanctions aimed at Iran’s China oil lifeline, increasing pressure on both Tehran and Beijing before Trump-Xi talks on Hormuz",
-    "dc": "dmg-strategic",
-    "sources": [
-      {
-        "name": "The Hindu/Reuters, May 12 — U.S. issues new sanctions over Iran’s oil shipments to China",
-        "url": "https://www.thehindu.com/news/international/us-issues-new-sanctions-over-irans-oil-shipments-to-china/article70968108.ece"
-      },
-      {
-        "name": "Reuters via Internazionale, May 11 — U.S. issues new sanctions over Iran’s oil shipments to China",
-        "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/05/11/us-issues-new-sanctions-over-iran-s-oil-shipments-to-china-2"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-11",
-    "time": "night",
-    "side": "israel",
-    "title": "Israeli strikes on Kfar Dounine kill six and wound seven in south Lebanon",
-    "detail": "Lebanon’s state-run National News Agency said Israeli strikes hit a house in Kfar Dounine, about 95 kilometres from Beirut, killing six people and wounding seven. The attack came despite the April 17 Israel-Lebanon ceasefire and amid continuing Israeli-Hezbollah exchanges tied to the wider Iran war; NNA also reported additional Israeli strikes near other southern towns and evacuation warnings for parts of the Bekaa Valley.",
-    "lat": 33.163,
-    "lng": 35.432,
-    "tid": "israeli-strikes-kfar-dounine-six-killed-south-lebanon-may11",
-    "tn": "Kfar Dounine strikes",
-    "dmg": 1,
-    "cas": 13,
-    "dl": "HEAVY — The six-dead Kfar Dounine strike shows the Lebanon front is still producing lethal escalations despite ceasefire language, keeping Hezbollah and Iran-linked pressure on Israel active",
-    "dc": "dmg-heavy",
-    "sources": [
-      {
-        "name": "The Hindu live updates, May 12 — Israeli strikes kill six in south Lebanon",
-        "url": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-12-2026/article70968122.ece"
-      },
-      {
-        "name": "New Indian Express/AFP, May 12 — Israeli strikes kill six in south Lebanon",
-        "url": "https://www.newindianexpress.com/world/2026/May/12/israeli-strikes-kill-six-in-south-lebanon"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-12",
-    "time": "morning",
-    "side": "israel-us",
-    "title": "U.S. envoy confirms Israel sent Iron Dome batteries and operators to defend UAE",
-    "detail": "U.S. Ambassador to Israel Mike Huckabee said at a Tel Aviv event that Israel had sent Iron Dome batteries and personnel to the UAE to help operate the air-defence system. Reuters, citing a source briefed on the matter, said Israel sent air defences to help the UAE defend against Iranian attacks during the war, while AP said the public acknowledgement underscored the deepening Israel-UAE defence relationship during the shaky Iran ceasefire.",
-    "lat": 24.4539,
-    "lng": 54.3773,
-    "tid": "israel-iron-dome-batteries-personnel-uae-confirmed-may12",
-    "tn": "Iron Dome to UAE",
-    "dmg": 0,
-    "cas": 0,
-    "dl": "STRATEGIC — Public confirmation of Israeli air-defence deployments to the UAE formalizes an anti-Iran regional defence link and shows Gulf states are adapting to continued Iranian missile and drone threats during the truce",
-    "dc": "dmg-strategic",
-    "sources": [
-      {
-        "name": "Reuters via Internazionale, May 12 — U.S. envoy says Israel sent Iron Dome battery, personnel to UAE",
-        "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/05/12/us-envoy-says-israel-sent-iron-dome-battery-personnel-to-uae"
-      },
-      {
-        "name": "Associated Press, May 12 — Israel sent Iron Dome to UAE during Iran war, U.S. ambassador says",
-        "url": "https://apnews.com/article/iran-us-israel-uae-iron-dome-f3d5738853111cfc80985c157edab7c3"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-12",
-    "time": "morning",
-    "side": "iran",
-    "title": "Iran lawmaker warns Tehran could enrich uranium to 90% if attacked again",
-    "detail": "Iranian parliamentary national security and foreign policy commission spokesperson Ebrahim Rezaei warned that Iran could enrich uranium to 90% purity, considered weapons-grade, if the country is attacked again. His threat followed President Trump’s statement that the ceasefire was on “life support” and Prime Minister Netanyahu’s insistence that Iran’s enriched uranium must be physically removed before the war can be over.",
-    "lat": 35.6892,
-    "lng": 51.389,
-    "tid": "iran-warns-90-percent-uranium-enrichment-if-attacked-may12",
-    "tn": "Iran 90% enrichment warning",
-    "dmg": 0,
-    "cas": 0,
-    "dl": "STRATEGIC — Tehran is threatening to turn renewed U.S. or Israeli strikes into a nuclear escalation trigger, raising the stakes of any attempt to restart military pressure after the failed peace exchange",
-    "dc": "dmg-strategic",
-    "sources": [
-      {
-        "name": "The Guardian live updates, May 12 — Iran could enrich uranium to weapons grade if attacked",
-        "url": "https://www.theguardian.com/world/live/2026/may/12/middle-east-crisis-us-iran-israel-donald-trump-ceasefire-peace-plan-latest-news-updates"
-      },
-      {
-        "name": "The Hindu live updates, May 12 — Iran could enrich uranium to weapons-grade if attacked, lawmaker warns",
-        "url": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-12-2026/article70968122.ece"
       }
     ]
   }
