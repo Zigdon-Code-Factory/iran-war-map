@@ -324,6 +324,18 @@
         "source": "Iran state-affiliated media / Planet Labs via Washington Post and NDTV",
         "captureDate": "2026-05-06",
         "description": "Washington Post-verified satellite image shows nine damaged fuel bladders at Ali al-Salem Air Base in Kuwait after Iranian strikes"
+      },
+      {
+        "url": "https://orbitaltoday.com/wp-content/uploads/2026/05/Nine-fuel-bladders-at-Ali-al-Salem-Air-Base-in-Kuwait.jpg",
+        "source": "Planet Labs PBC / Washington Post via Orbital Today",
+        "captureDate": "2026-05-06",
+        "description": "Direct image of nine damaged fuel bladders at Ali al-Salem Air Base in Kuwait, verified by Washington Post using Planet imagery"
+      },
+      {
+        "url": "https://orbitaltoday.com/wp-content/uploads/2026/05/Damage-to-Camp-Arifjan-in-Kuwait.jpg",
+        "source": "Planet Labs PBC / Washington Post via Orbital Today",
+        "captureDate": "2026-03-04",
+        "description": "Direct image showing damage at Camp Arifjan in Kuwait visible in March 4 satellite imagery"
       }
     ]
   },
@@ -8838,6 +8850,20 @@
       {
         "name": "Reuters Iran live coverage",
         "url": "https://www.reuters.com/world/iran-war-live-trump-seeks-everlasting-deal-with-tehran-lebanon-israel-ceasefire-2026-04-24/"
+      }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/inline-images/01_0.png?VersionId=P2D8fRegOY225o_X7Rsnf1zo37THUEIj",
+        "source": "Vantor via India Today OSINT",
+        "captureDate": "2026-04-25",
+        "description": "Vantor high-resolution satellite imagery shows a C-130-type aircraft at Pakistan's Nur Khan airbase, assessed as Iran-linked during the Islamabad peace-talks period"
+      },
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/inline-images/02_0.png?VersionId=fu2EZJjPX6PQ7zTXy3Zkb1_4x9wkmJfz",
+        "source": "Vantor via India Today OSINT",
+        "captureDate": "2026-04-25",
+        "description": "Vantor imagery shows two additional aircraft resembling Iranian Meraj Air planes at Nur Khan airbase during Iranian delegation visits to Islamabad"
       }
     ]
   },
