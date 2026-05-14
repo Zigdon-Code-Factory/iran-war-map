@@ -119,6 +119,12 @@
         "source": "Vantor",
         "captureDate": "2026-03-08",
         "description": "Damaged buildings at Isfahan military garrison"
+      },
+      {
+        "url": "https://www.channelstv.com/2026/03/09/fake-ai-satellite-imagery-spurs-us-iran-war-disinformation/this-handout-satellite-image-courtesy-of-vantor-shows-an-overview-of-isfahan-airport-in-central-iran/",
+        "source": "Vantor via AFP/Channels Television",
+        "captureDate": "2026-03-08",
+        "description": "Vantor handout overview of Isfahan airport following an airstrike"
       }
     ]
   },
@@ -199,6 +205,12 @@
         "source": "Planet Labs PBC via SkyFi/Business Insider",
         "captureDate": "2026-03-02",
         "description": "Direct SkyFi-hosted Planet Labs image of smoke rising from the IRINS Makran at Bandar Abbas after US airstrikes"
+      },
+      {
+        "url": "https://static-cdn.toi-media.com/www/uploads/2026/03/AP26076264054673.jpg",
+        "source": "Planet Labs PBC via AP/Times of Israel",
+        "captureDate": "2026-03-02",
+        "description": "Direct AP-hosted image shows fires burning on a ship at Bandar Abbas after a U.S. military attack"
       }
     ]
   },
@@ -702,6 +714,12 @@
         "source": "Planet Labs PBC",
         "captureDate": "2026-03-03",
         "description": "Damage to two large hangar-like buildings at French Camp de la Paix naval base in Abu Dhabi"
+      },
+      {
+        "url": "https://static-cdn.toi-media.com/www/uploads/2026/03/AP26076264724976.jpg",
+        "source": "Planet Labs PBC via AP/Times of Israel",
+        "captureDate": "2026-03-03",
+        "description": "Direct AP-hosted image shows damage to two large hangar-like buildings at France's Camp de la Paix naval base in Abu Dhabi"
       }
     ]
   },
@@ -2192,6 +2210,12 @@
         "source": "USGS Landsat",
         "captureDate": "2026-03-16",
         "description": "Fire at Port of Salalah days after suspected Iranian drone attack"
+      },
+      {
+        "url": "https://static-cdn.toi-media.com/www/uploads/2026/03/AP26076289601153.jpg",
+        "source": "USGS Landsat via AP/Times of Israel",
+        "captureDate": "2026-03-16",
+        "description": "Direct AP-hosted Landsat image shows fire still burning at Port of Salalah after suspected Iranian drone attack"
       }
     ]
   },
@@ -3012,6 +3036,12 @@
         "source": "Sentinel-2 / Bellingcat",
         "captureDate": "2026-03-28",
         "description": "Sentinel-2 comparison shows damage to fuel tanks at Fujairah Port after Iranian drone/missile attacks on UAE industrial targets"
+      },
+      {
+        "url": "https://static-cdn.toi-media.com/www/uploads/2026/03/AP26076264943576.jpg",
+        "source": "USGS Landsat via AP/Times of Israel",
+        "captureDate": "2026-03-16",
+        "description": "Direct AP-hosted Landsat image shows fire at Dubai International Airport after an Iranian drone strike set a fuel tanker ablaze"
       }
     ]
   },
