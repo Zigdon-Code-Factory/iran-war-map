@@ -397,6 +397,18 @@
         "source": "Planet Labs PBC",
         "captureDate": "2026-03-03",
         "description": "Damage to two large hangar-like buildings at France's Camp de la Paix naval base in Abu Dhabi"
+      },
+      {
+        "url": "https://media.cnn.com/api/v1/images/stellar/prod/al-ruwais-thaad-zoomed-planet-2026-march-1.jpg?c=original",
+        "source": "Planet Labs PBC via CNN",
+        "captureDate": "2026-03-01",
+        "description": "Direct satellite image shows dark strike markings on buildings at a THAAD battery near Al Ruwais, UAE"
+      },
+      {
+        "url": "https://media.cnn.com/api/v1/images/stellar/prod/al-sader-thaad-zoomed-planet-2026-march-1.jpg?c=original",
+        "source": "Planet Labs PBC via CNN",
+        "captureDate": "2026-03-01",
+        "description": "Direct satellite image shows apparent strike damage to buildings at a THAAD battery near Al Sader, UAE"
       }
     ]
   },
@@ -436,6 +448,12 @@
         "source": "Planet Labs PBC",
         "captureDate": "2026-03-15",
         "description": "Damage visible at Prince Sultan Air Base after Iranian attack"
+      },
+      {
+        "url": "https://media.cnn.com/api/v1/images/stellar/prod/prince-sultan-air-base-fire-planet-2026-march-1.jpg?c=original",
+        "source": "Planet Labs PBC via CNN",
+        "captureDate": "2026-03-01",
+        "description": "Direct Planet Labs image shows smoke rising from a THAAD radar compound near Prince Sultan Air Base in Saudi Arabia"
       }
     ]
   },
@@ -537,6 +555,12 @@
         "source": "Planet Labs PBC",
         "captureDate": "2026-03-02",
         "description": "Damage to AN/TPY-2 radar equipment buildings at Muwaffaq al Salti base in Jordan"
+      },
+      {
+        "url": "https://media.cnn.com/api/v1/images/stellar/prod/muwaffaq-salti-thaad-radar-airbus-2026-march-2.jpg?c=original",
+        "source": "Airbus via CNN",
+        "captureDate": "2026-03-02",
+        "description": "Direct Airbus satellite image shows debris surrounding a blackened THAAD radar at Muwaffaq Salti Air Base in Jordan"
       }
     ]
   },
@@ -746,6 +770,14 @@
         "name": "CNN",
         "url": "https://www.cnn.com/world/live-news/israel-iran-attack-02-28-26-hnk-intl"
       }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://media.cnn.com/api/v1/images/stellar/prod/20260303-qatarphasedarray-planet.jpg?c=original",
+        "source": "Planet Labs PBC/Middlebury Institute via CNN",
+        "captureDate": "2026-03-03",
+        "description": "Direct satellite image shows damage to a US-made Qatari early-warning radar system at Umm Dahal, Qatar"
+      }
     ]
   },
   {
@@ -875,6 +907,12 @@
         "source": "Vantor via SkyFi/Reuters",
         "captureDate": "2026-03-02",
         "description": "Vantor imagery shows destroyed entrance buildings and new building damage at the Natanz nuclear facility (SkyFi article)"
+      },
+      {
+        "url": "https://vantor.com/blog/when-events-can-be-seen-from-space-the-facts-are-harder-to-hide/",
+        "source": "Vantor",
+        "captureDate": "2026-03-07",
+        "description": "Vantor official imagery of the Natanz Fuel Enrichment Plant after March strikes, showing facility condition and reconstruction activity from space"
       }
     ]
   },
@@ -1883,6 +1921,12 @@
         "source": "Planet Labs PBC",
         "captureDate": "2026-02-28",
         "description": "Before/after imagery showing damage to girls' school and adjacent IRGC Navy compound in Minab"
+      },
+      {
+        "url": "https://www.bbc.com/news/articles/c5yqqyly9n0o",
+        "source": "Planet Labs PBC via BBC Verify",
+        "captureDate": "2026-03-04",
+        "description": "BBC Verify analysis of Planet Labs imagery shows extensive destruction at Shajareh Tayebeh primary school and adjacent IRGC compound in Minab"
       }
     ]
   },
