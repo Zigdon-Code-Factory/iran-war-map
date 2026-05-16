@@ -293,6 +293,12 @@
         "source": "Planet Labs PBC",
         "captureDate": "2026-03-01",
         "description": "Satellite view shows damage at the U.S. Fifth Fleet naval base in Manama after Iranian strikes"
+      },
+      {
+        "url": "https://dims.apnews.com/dims4/default/acd26b5/2147483647/strip/true/crop/3240x2160+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc8%2Fc5%2F05ffb8439c67a08ad2ea76ee502a%2Fcbed440da748423aa263ab5fe2a9df66",
+        "source": "Planet Labs PBC via AP",
+        "captureDate": "2026-03-06",
+        "description": "Direct AP satellite image shows damage after Iranian attacks on the U.S. Navy's 5th Fleet headquarters in Manama, Bahrain"
       }
     ]
   },
@@ -409,6 +415,12 @@
         "source": "Planet Labs PBC via CNN",
         "captureDate": "2026-03-01",
         "description": "Direct satellite image shows apparent strike damage to buildings at a THAAD battery near Al Sader, UAE"
+      },
+      {
+        "url": "https://dims.apnews.com/dims4/default/74d6a50/2147483647/strip/true/crop/2187x1458+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F15%2Ff1%2F030a7fdc4560492625adf0abe23b%2F0b261c6f9b9844a3a4cfdee178216fbf",
+        "source": "Airbus Pléiades Neo via AP",
+        "captureDate": "2026-03-15",
+        "description": "Direct AP satellite image shows hangar damage at Al Dhafra Air Base after Iranian attacks targeting Abu Dhabi"
       }
     ]
   },
@@ -600,6 +612,12 @@
         "source": "Planet Labs PBC via SkyFi/NPR",
         "captureDate": "2026-03-01",
         "description": "Direct SkyFi-hosted Planet Labs image shows collapsed tunnel entrances and destroyed buildings at a missile base near Tabriz after early-war strikes"
+      },
+      {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/03/03/de83126f-5d53-41a5-98b8-e50035dc7425/thumbnail/620x400/55ce37cd01db3f7a33506f87a4c4d0b9/04-after-airstrikes-destoyed-buildings-and-equipment-drone-base-at-choqa-balk-e-iran-02march2026-wvl.jpg",
+        "source": "Vantor via CBS News",
+        "captureDate": "2026-03-02",
+        "description": "Direct Vantor image shows destroyed buildings and equipment at the Choqa Balk-e drone facility after early-war airstrikes"
       }
     ]
   },
@@ -913,6 +931,12 @@
         "source": "Vantor",
         "captureDate": "2026-03-07",
         "description": "Vantor official imagery of the Natanz Fuel Enrichment Plant after March strikes, showing facility condition and reconstruction activity from space"
+      },
+      {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/03/03/60f77cd9-bc5a-46a1-aab0-7936799b095d/thumbnail/620x424/6218ab89ac039be7bf7cab4881c6da46/04-closer-view-of-natanz-facility-with-new-building-damage-iran-02march2026-wv2.jpg",
+        "source": "Vantor via CBS News",
+        "captureDate": "2026-03-02",
+        "description": "Direct Vantor close-up shows new building damage at Natanz nuclear facility after March 2 strikes"
       }
     ]
   },
@@ -1694,6 +1718,12 @@
         "source": "Planet Labs PBC via AP",
         "captureDate": "2026-03-06",
         "description": "Planet Labs imagery shows damage after airstrikes targeting Iran’s Parchin military base outside Tehran"
+      },
+      {
+        "url": "https://dims.apnews.com/dims4/default/cf29999/2147483647/strip/true/crop/2176x1450+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe0%2F6e%2F2594ef6d5356a791b56413cc8808%2Fbe43ad1c9e814d899ec1c9ed04a37b9d",
+        "source": "Planet Labs PBC via AP",
+        "captureDate": "2026-03-06",
+        "description": "Direct AP satellite image shows damage after airstrikes targeting Iran’s Parchin military base outside Tehran"
       }
     ]
   },
@@ -2289,6 +2319,12 @@
         "source": "USGS Landsat",
         "captureDate": "2026-03-16",
         "description": "Fire at Dubai International Airport after an Iranian drone strike set a fuel tanker ablaze"
+      },
+      {
+        "url": "https://dims.apnews.com/dims4/default/9108644/2147483647/strip/true/crop/10000x5304+0+0/resize/599x318!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5b%2F59%2F9c68258ef31587b39ee0226889b7%2F75a725d3a49848ce9a50f4726b613582",
+        "source": "USGS Landsat via AP",
+        "captureDate": "2026-03-16",
+        "description": "Direct AP Landsat image shows the fire after an Iranian drone attack targeting Dubai International Airport"
       }
     ]
   },
