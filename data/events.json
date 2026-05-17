@@ -2004,6 +2004,14 @@
         "name": "Wikipedia Timeline",
         "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Iran_war"
       }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://newlinesmag.com/reportage/the-noxious-smoke-enveloping-tehran/",
+        "source": "Meteosat/Sentinel-3/NASA Worldview via New Lines",
+        "captureDate": "2026-03-07",
+        "description": "Satellite imagery and plume modeling show smoke from strikes on Tehran-area fuel storage sites at Shahran, Aqdasiyeh, Shahr-e Rey and Fardis/Karaj"
+      }
     ]
   },
   {
@@ -7869,6 +7877,14 @@
         "name": "Reuters",
         "url": "https://www.reuters.com/world/middle-east/fire-erupts-kuwaits-shuwaikh-oil-sector-complex-after-drone-attack-state-news-2026-04-05/"
       }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://media.cnn.com/api/v1/images/stellar/prod/2026-04-06-00-00-2026-04-06-23-59-sentinel-2-l2a-true-color.jpg?c=original",
+        "source": "Sentinel-2/European Space Agency via CNN",
+        "captureDate": "2026-04-06",
+        "description": "Direct satellite image shows oil off the coast of Kuwait after Iranian attacks on fuel and petrochemical facilities"
+      }
     ]
   },
   {
@@ -9867,6 +9883,14 @@
       {
         "name": "Times of India, May 1",
         "url": "https://timesofindia.indiatimes.com/world/middle-east/never-seen-anything-like-this-before-iran-damaged-16-us-bases-across-8-middle-east-nations-says-report/articleshow/130681274.cms"
+      }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://www.cnn.com/2026/05/01/world/video/us-military-bases-iran-strikes-images-invs-digvid",
+        "source": "CNN satellite imagery analysis",
+        "captureDate": "2026-05-01",
+        "description": "CNN investigation based on satellite imagery reports damage to at least 16 U.S. military sites across eight Middle Eastern countries"
       }
     ]
   },
