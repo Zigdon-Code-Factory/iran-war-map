@@ -9170,6 +9170,14 @@
         "name": "Reuters Iran latest",
         "url": "https://www.reuters.com/world/iran/"
       }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://diyatvusa.com/satellite-imagery-shows-iranian-aircraft-hosted-in-pakistan/",
+        "source": "Vantor via Diya TV/AP report",
+        "captureDate": "2026-04-25",
+        "description": "High-resolution Vantor imagery reportedly shows an Iranian Air Force C-130 parked at Nur Khan Airbase near Islamabad during Pakistan-mediated Iran-U.S. talks"
+      }
     ]
   },
   {
@@ -9891,6 +9899,12 @@
         "source": "CNN satellite imagery analysis",
         "captureDate": "2026-05-01",
         "description": "CNN investigation based on satellite imagery reports damage to at least 16 U.S. military sites across eight Middle Eastern countries"
+      },
+      {
+        "url": "https://www.jpost.com/middle-east/iran-news/article-895499",
+        "source": "Washington Post satellite imagery analysis via Jerusalem Post",
+        "captureDate": "2026-05-07",
+        "description": "Washington Post review of commercial satellite imagery found at least 228 damaged or destroyed structures/equipment items at 15 U.S. military sites across the Gulf and Jordan"
       }
     ]
   },
