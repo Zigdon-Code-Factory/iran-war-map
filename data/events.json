@@ -55,6 +55,12 @@
         "source": "Satellogic via SkyFi",
         "captureDate": "2026-02-28",
         "description": "Annotated Satellogic imagery delivered through SkyFi shows damage to Khamenei's compound in Tehran (SkyFi article)"
+      },
+      {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/03/03/8a32f156-ddaf-43c1-884d-68402f45327f/thumbnail/1240x756/a1281fc43ed2c835b4e40ef106726be9/10-destroyed-buildings-at-khamanei-cmpound-01mar2026-wvl.jpg",
+        "source": "Vantor via CBS News",
+        "captureDate": "2026-03-01",
+        "description": "Direct Vantor image shows destroyed buildings at Khamenei's compound after the opening strikes"
       }
     ]
   },
@@ -3130,6 +3136,12 @@
         "source": "USGS Landsat via AP/Times of Israel",
         "captureDate": "2026-03-16",
         "description": "Direct AP-hosted Landsat image shows fire at Dubai International Airport after an Iranian drone strike set a fuel tanker ablaze"
+      },
+      {
+        "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7114x4717+0+0/resize/2400/quality/85/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F87%2Fdf%2F0931184846e7abc28b2017209fd4%2Flandsat-march-16-adjusted.png",
+        "source": "NASA Terra / Worldview via NPR",
+        "captureDate": "2026-03-16",
+        "description": "Direct NPR-hosted NASA Terra/Worldview image shows fires burning in the United Arab Emirates during March 16 Gulf attacks"
       }
     ]
   },
