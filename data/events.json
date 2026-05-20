@@ -217,6 +217,12 @@
         "source": "Planet Labs PBC via AP/Times of Israel",
         "captureDate": "2026-03-02",
         "description": "Direct AP-hosted image shows fires burning on a ship at Bandar Abbas after a U.S. military attack"
+      },
+      {
+        "url": "https://s.hdnux.com/photos/01/65/41/61/30809169/3/rawImage.jpg",
+        "source": "Planet Labs PBC via AP/MRT",
+        "captureDate": "2026-03-02",
+        "description": "Direct image shows ships burning at Bandar Abbas after strikes on Iranian naval vessels"
       }
     ]
   },
@@ -305,6 +311,12 @@
         "source": "Planet Labs PBC via AP",
         "captureDate": "2026-03-06",
         "description": "Direct AP satellite image shows damage after Iranian attacks on the U.S. Navy's 5th Fleet headquarters in Manama, Bahrain"
+      },
+      {
+        "url": "https://s.hdnux.com/photos/01/65/43/52/30816952/3/rawImage.jpg",
+        "source": "Planet Labs PBC via AP/MRT",
+        "captureDate": "2026-03-06",
+        "description": "Direct Planet Labs image shows damage at the U.S. Navy 5th Fleet headquarters area in Manama, Bahrain"
       }
     ]
   },
@@ -427,6 +439,12 @@
         "source": "Airbus Pléiades Neo via AP",
         "captureDate": "2026-03-15",
         "description": "Direct AP satellite image shows hangar damage at Al Dhafra Air Base after Iranian attacks targeting Abu Dhabi"
+      },
+      {
+        "url": "https://s.hdnux.com/photos/01/65/42/67/30813677/3/rawImage.jpg",
+        "source": "Airbus Defence and Space via AP/MRT",
+        "captureDate": "2026-03-15",
+        "description": "Direct Airbus image shows hangar damage at Al Dhafra Air Base after Iranian attacks on Abu Dhabi"
       }
     ]
   },
@@ -624,6 +642,12 @@
         "source": "Vantor via CBS News",
         "captureDate": "2026-03-02",
         "description": "Direct Vantor image shows destroyed buildings and equipment at the Choqa Balk-e drone facility after early-war airstrikes"
+      },
+      {
+        "url": "https://live-production.wcms.abc-cdn.net.au/69cf090126bf614ae8307739f2c49463?src",
+        "source": "Planet Labs via ABC News Australia",
+        "captureDate": "2026-03-01",
+        "description": "Direct Planet Labs image shows collapsed tunnel entrances and flattened structures at the Tabriz missile base after opening strikes"
       }
     ]
   },
@@ -667,6 +691,12 @@
         "source": "Planet Labs PBC",
         "captureDate": "2026-03-01",
         "description": "Smoke and strike damage at a THAAD radar compound near Prince Sultan Air Base in Saudi Arabia"
+      },
+      {
+        "url": "https://live-production.wcms.abc-cdn.net.au/5c787c26dd27a17bf7e6a56507fce7bc?impolicy=wcms_crop_resize&cropH=1475&cropW=2623&xPos=0&yPos=1&width=862&height=485",
+        "source": "Planet Labs via ABC News Australia",
+        "captureDate": "2026-03-01",
+        "description": "Direct Planet Labs image shows a large smoke plume rising from an industrial area in Sharjah during the Gulf-wide Iranian missile barrage"
       }
     ]
   },
@@ -1292,6 +1322,24 @@
         "source": "Planet Labs PBC via SkyFi/Business Insider",
         "captureDate": "2026-03-02",
         "description": "Direct SkyFi-hosted Planet Labs image shows IRINS Makran burning at Bandar Abbas naval base after strikes"
+      },
+      {
+        "url": "https://live-production.wcms.abc-cdn.net.au/378babf6a8acaadfe2cd603f0e6f5aa1?src",
+        "source": "Vantor via ABC News Australia",
+        "captureDate": "2026-03-01",
+        "description": "Direct Vantor image shows attack damage to ships and naval-base facilities at Konarak"
+      },
+      {
+        "url": "https://live-production.wcms.abc-cdn.net.au/9621ae4e60dd627336f3ee3d004c85f8?src",
+        "source": "Vantor via ABC News Australia",
+        "captureDate": "2026-03-01",
+        "description": "Direct Vantor image shows debris across a drone base near Konarak after US and Israeli strikes"
+      },
+      {
+        "url": "https://live-production.wcms.abc-cdn.net.au/bfeff634b1ae829ef7872fbdd556b585?src",
+        "source": "Vantor via ABC News Australia",
+        "captureDate": "2026-03-01",
+        "description": "Direct Vantor image shows extensive damage to aircraft shelters at Konarak air base"
       }
     ]
   },
@@ -1730,6 +1778,12 @@
         "source": "Planet Labs PBC via AP",
         "captureDate": "2026-03-06",
         "description": "Direct AP satellite image shows damage after airstrikes targeting Iran’s Parchin military base outside Tehran"
+      },
+      {
+        "url": "https://s.hdnux.com/photos/01/65/43/52/30816951/3/rawImage.jpg",
+        "source": "Planet Labs PBC via AP/MRT",
+        "captureDate": "2026-03-06",
+        "description": "Direct Planet Labs image shows damage at Parchin military base outside Tehran after airstrikes"
       }
     ]
   },
