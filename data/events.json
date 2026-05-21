@@ -648,6 +648,12 @@
         "source": "Planet Labs via ABC News Australia",
         "captureDate": "2026-03-01",
         "description": "Direct Planet Labs image shows collapsed tunnel entrances and flattened structures at the Tabriz missile base after opening strikes"
+      },
+      {
+        "url": "https://gdb.rferl.org/6ab523fd-e363-4313-3133-08de3be37656_w1024_n_q10_s.jpg",
+        "source": "Planet Labs PBC via RFE/RL",
+        "captureDate": "2026-03-01",
+        "description": "Direct before/after Planet Labs image shows damage at the Tabriz missile base after the February 28 opening strikes"
       }
     ]
   },
@@ -1784,6 +1790,12 @@
         "source": "Planet Labs PBC via AP/MRT",
         "captureDate": "2026-03-06",
         "description": "Direct Planet Labs image shows damage at Parchin military base outside Tehran after airstrikes"
+      },
+      {
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2031253239379931137/img/f0UdRVu6vXYkAacD.jpg?format=jpg&name=large",
+        "source": "Vantor via GlobalSecurity/Soar Atlas",
+        "captureDate": "2026-03-06",
+        "description": "Direct Vantor image shows Parchin rocket-propellant production buildings damaged or destroyed after precision strikes"
       }
     ]
   },
@@ -2652,6 +2664,14 @@
       {
         "name": "NYT",
         "url": "https://www.nytimes.com/live/2026/03/13/world/iran-war-trump-oil-israel"
+      }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://pbs.twimg.com/tweet_video_thumb/HDNjRddawAAnw6L.jpg?format=jpg&name=large",
+        "source": "TankerTrackers.com satellite observation via GlobalSecurity",
+        "captureDate": "2026-03-14",
+        "description": "Direct image shows two tankers loading crude at Kharg Island hours after CENTCOM struck 90+ military targets, indicating export infrastructure remained usable"
       }
     ]
   },
@@ -4460,6 +4480,12 @@
         "source": "Vantor",
         "captureDate": "2026-03-08",
         "description": "Destroyed buildings at Isfahan airport area, later struck again"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HDGncwxaMAcCvl8.jpg?format=jpg&name=large",
+        "source": "Vantor via GlobalSecurity/OSINTdefender",
+        "captureDate": "2026-03-11",
+        "description": "Direct Vantor image shows approximately a dozen aircraft destroyed at Khatami/8th Tactical Air Base near Isfahan after March strikes"
       }
     ]
   },
@@ -5902,6 +5928,12 @@
         "source": "Vantor/Airbus Pléiades",
         "captureDate": "2026-03-12",
         "description": "WashPost analysis: 12 structures struck at Parchin Military Complex, including solid rocket propellant motor production facilities and Taleghan 2 site"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HDKq87FbQAQfLek.jpg?format=jpg&name=large",
+        "source": "Vantor WorldView-Legion via GlobalSecurity/Drop Site News",
+        "captureDate": "2026-03-11",
+        "description": "Direct Vantor image shows three penetration craters at Taleghan-2 inside the Parchin military complex"
       }
     ]
   },
