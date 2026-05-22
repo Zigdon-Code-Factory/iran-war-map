@@ -7579,6 +7579,20 @@
         "name": "DW Live",
         "url": "https://www.dw.com/en/iran-war-oil-prices-jump-stocks-fall-after-trump-speech/live-76635831"
       }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://newlinesmag.com/reportage/how-israeli-airstrikes-targeted-irans-steel-industry/",
+        "source": "Airbus Pléiades via New Lines",
+        "captureDate": "2026-04-01",
+        "description": "Airbus Pléiades imagery shows damage to the melting and casting hall, Direct Reduction Unit 2, and Zamzam 3 megamodule at Khuzestan Steel Company after late-March strikes"
+      },
+      {
+        "url": "https://newlinesmag.com/reportage/how-israeli-airstrikes-targeted-irans-steel-industry/",
+        "source": "Airbus SPOT/Pléiades via New Lines",
+        "captureDate": "2026-04-14",
+        "description": "Airbus imagery confirms damage to the steelmaking unit at Mobarakeh Steel Company after the March 27 and March 31 strike rounds"
+      }
     ]
   },
   {
