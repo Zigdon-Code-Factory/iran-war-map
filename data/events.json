@@ -3446,6 +3446,14 @@
         "name": "AP News",
         "url": "https://apnews.com/article/iran-iraq-us-israel-trump-march-18-2026-d7ca062ba1bf99d1f8dc00c8073cf10f"
       }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://www.wiwo.de/technologie/wirtschaft-von-oben/south-pars-so-schwer-haben-israels-bomben-irans-wichtigstes-gasfeld-beschaedigt/100211652.html",
+        "source": "LiveEO/Up42/Airbus via WirtschaftsWoche",
+        "captureDate": "2026-03-21",
+        "description": "High-resolution Airbus imagery shows medium to severe damage, burn scars, damaged production lines, and firefighting-water stains at South Pars refinery units after the March 18 Israeli strike"
+      }
     ]
   },
   {
@@ -3520,6 +3528,14 @@
       {
         "name": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/3/18/qatar-says-iran-missile-attack-sparks-fire-causes-damage-at-gas-facility"
+      }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://www.wiwo.de/technologie/wirtschaft-von-oben/katar-die-schaeden-an-der-wichtigsten-lng-anlage-der-welt/100212278.html",
+        "source": "LiveEO/Up42/Airbus via WirtschaftsWoche",
+        "captureDate": "2026-03-22",
+        "description": "High-resolution Airbus imagery shows damage to Ras Laffan LNG South production lines 4 and 6 and the Pearl GTL production line 2 after Iranian strikes"
       }
     ]
   },
