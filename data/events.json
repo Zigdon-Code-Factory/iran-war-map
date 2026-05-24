@@ -1346,6 +1346,12 @@
         "source": "Vantor via ABC News Australia",
         "captureDate": "2026-03-01",
         "description": "Direct Vantor image shows extensive damage to aircraft shelters at Konarak air base"
+      },
+      {
+        "url": "https://assets.apnews.com/26/a7/39479e22a66dc44f93aff9895267/f5c1f2f908eb4ab1a5b030d3a62156ee",
+        "source": "Vantor via AP News",
+        "captureDate": "2026-03-04",
+        "description": "Direct AP-hosted Vantor image shows a destroyed drone storage building and cratered airstrip at Konarak drone base"
       }
     ]
   },
@@ -1462,6 +1468,12 @@
         "source": "Vantor / Planet Labs PBC via AFP",
         "captureDate": "2026-03-04",
         "description": "Satellite images show damage at Garmdarah missile base, Iran Air Force headquarters in Tehran, and Bandar Abbas military harbour after intensified strikes"
+      },
+      {
+        "url": "https://assets.apnews.com/24/05/5dbe6023bd67e5b89743e681dd2a/ed4f7aafef1246e29e404e83bcdb4a3e",
+        "source": "Vantor via AP News",
+        "captureDate": "2026-03-04",
+        "description": "Direct AP-hosted Vantor image shows damaged buildings at the Garmdarah missile base after intensified strikes"
       }
     ]
   },
