@@ -2159,6 +2159,14 @@
         "name": "Press TV (via NCRI)",
         "url": "https://www.ncr-iran.org/en/news/iran-news-in-brief-news/iran-news-in-brief-march-9-2026/"
       }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://www.middleeastmonitor.com/20260522-despite-blackout-satellite-images-reveal-damage-to-israeli-military-bases-during-iran-war/",
+        "source": "Sentinel-2 / Soar analysis via Yedioth Ahronoth/Middle East Monitor",
+        "captureDate": "2026-03-10",
+        "description": "Sentinel-2 imagery analysis found a possible strike-related ground-surface change at Mishar Base (Unit 8200) near Safed between March 5 and 10, plus damage at Ramat David Airbase during the March missile-war period"
+      }
     ]
   },
   {
@@ -4964,6 +4972,14 @@
       {
         "name": "Reuters",
         "url": "https://www.reuters.com/world/middle-east/iran-war-live-tehran-launches-missiles-israel-after-trump-says-talks-held-2026-03-24/"
+      }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://www.middleeastmonitor.com/20260522-despite-blackout-satellite-images-reveal-damage-to-israeli-military-bases-during-iran-war/",
+        "source": "Sentinel-2 / Soar analysis via Yedioth Ahronoth/Middle East Monitor",
+        "captureDate": "2026-03-25",
+        "description": "Sentinel-2 imagery analysis reported visible damage at a defensive position inside Nevatim Airbase on March 25, during the multi-target IRGC missile/drone salvo against Israel and regional bases"
       }
     ]
   },
