@@ -1177,6 +1177,14 @@
         "name": "CNN",
         "url": "https://www.cnn.com/world/live-news/israel-iran-attack-02-28-26-hnk-intl"
       }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://madhyamamonline.com/h-upload/2026/03/04/2806509-satellite-images-show-damage-to-tehran-presidential-complex-and-irgc-headquarters.webp",
+        "source": "NDTV high-resolution satellite imagery via Madhyamam",
+        "captureDate": "2026-03-04",
+        "description": "Before/after satellite imagery shows damage across Tehran's government district, including the Presidential Complex and IRGC headquarters after U.S.-Israeli strikes"
+      }
     ]
   },
   {
@@ -7663,6 +7671,14 @@
       {
         "name": "ISW",
         "url": "https://understandingwar.org/research/middle-east/iran-update-special-report-april-2-2026/"
+      }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://img.etimg.com/thumb/msid-129994598,width-300,height-225,imgsize-32762,resizemode-75/satellite-imagery-shows-damage-smoke-at-irans-qeshm-port-after-us-israeli-strikes.jpg",
+        "source": "Copernicus Sentinel-2 via Reuters/Economic Times",
+        "captureDate": "2026-04-02",
+        "description": "Sentinel-2 imagery shows smoke rising and damage at Qeshm Island port infrastructure after U.S.-Israeli strikes on Bahman port and Doha fishing pier"
       }
     ]
   },
