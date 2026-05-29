@@ -13249,6 +13249,32 @@
         "name": "Reuters via Al-Monitor, May 21 — Iran rebuilding military industrial base faster than expected, CNN reports",
         "url": "https://www.al-monitor.com/originals/2026/05/iran-rebuilding-military-industrial-base-faster-expected-cnn-reports"
       }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://ynet-pic1.yit.co.il/picserver6/wcm_upload/2026/05/28/ByjXNwSeGl/photo_2026_05_28_09_43_29.jpg",
+        "source": "Airbus DS via CNN/Ynet",
+        "captureDate": "2026-04-10",
+        "description": "Airbus satellite imagery shows debris-clearing work at blocked tunnel entrances as Iran restores access to underground missile sites after the ceasefire"
+      },
+      {
+        "url": "https://ynet-pic1.yit.co.il/picserver6/wcm_upload/2026/05/28/S1WsQEDSefe/photo_2026_05_28_09_43_34.jpg",
+        "source": "Airbus DS via CNN/Ynet",
+        "captureDate": "2026-04-10",
+        "description": "Airbus imagery cited by CNN/Ynet shows debris removal at a missile base south of Tabriz and similar clearing at Khomein, part of at least 50 cleared access points across 18 sites"
+      },
+      {
+        "url": "https://ynet-pic1.yit.co.il/picserver6/wcm_upload/2026/05/28/BJb3VDrlGl/1.jpg",
+        "source": "Airbus DS via CNN/Ynet",
+        "captureDate": "2026-04-22",
+        "description": "Airbus imagery shows suspicious activity at the Mount Pickaxe underground complex, with eastern tunnel entrances blocked by soil during post-strike recovery activity"
+      },
+      {
+        "url": "https://www.israelhayom.com/wp-content/uploads/2026/05/iran-1.jpg",
+        "source": "Airbus DS via CNN/Israel Hayom",
+        "captureDate": "2026-04-10",
+        "description": "Israel Hayom reproduction of CNN/Airbus satellite analysis showing Iran rapidly clearing blocked entrances and rebuilding missile and drone capabilities after strikes"
+      }
     ]
   },
   {
