@@ -61,6 +61,12 @@
         "source": "Vantor via CBS News",
         "captureDate": "2026-03-01",
         "description": "Direct Vantor image shows destroyed buildings at Khamenei's compound after the opening strikes"
+      },
+      {
+        "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/1200/675/tehran-plume-smoke-iran-strike.png?ve=1&tl=1",
+        "source": "Planet Labs PBC via Fox News",
+        "captureDate": "2026-03-01",
+        "description": "Direct Fox-hosted Planet Labs image shows a smoke plume above Tehran after strikes on the capital."
       }
     ]
   },
@@ -86,6 +92,14 @@
       {
         "name": "CNN",
         "url": "https://www.cnn.com/world/live-news/israel-iran-attack-02-28-26-hnk-intl"
+      }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://www.foxnews.com/politics/new-satellite-images-reveal-fires-damage-iranian-naval-bases-after-us-israeli-strikes",
+        "source": "Vantor via Fox News",
+        "captureDate": "2026-03-08",
+        "description": "Vantor imagery reported by Fox News shows damage to facilities and vessels at Iran’s Bushehr port in the Persian Gulf."
       }
     ]
   },
@@ -3354,6 +3368,12 @@
         "source": "Vantor",
         "captureDate": "2026-03-06",
         "description": "Before-and-after satellite imagery showing damage to aircraft on tarmac at Shiraz air base, with scorch marks and debris around parking areas"
+      },
+      {
+        "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/1200/675/iran-sat-image-damage.png?ve=1&tl=1",
+        "source": "Vantor/Maxar/Getty Images via Fox News",
+        "captureDate": "2026-03-06",
+        "description": "Direct Fox-hosted Vantor/Maxar satellite image shows damage to aircraft on the tarmac at Shiraz air base."
       }
     ]
   },
