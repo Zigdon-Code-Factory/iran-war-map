@@ -14793,15 +14793,15 @@
     "date": "2026-06-03",
     "time": "early morning",
     "side": "iran",
-    "title": "Iranian drone and missile attack kills one and severely damages Kuwait International Airport",
-    "detail": "Kuwait's state news agency and aviation authorities said Iranian drones and missiles struck Kuwait International Airport's T1 passenger building, killing one Indian citizen, injuring more than 60 people and causing severe damage that forced flight suspensions and diversions. Kuwait condemned the strike as criminal Iranian aggression; CENTCOM rejected an IRGC claim that the terminal damage came from a U.S. interceptor and called the airport strike deliberate and unjustified.",
+    "title": "Iranian drone and missile attack severely damages Kuwait International Airport",
+    "detail": "Kuwait's state news agency and aviation authorities said Iranian drones and missiles struck Kuwait International Airport's T1 passenger building, causing injuries, severe damage and flight suspensions/diversions. The attack marked a major widening of the Gulf front after earlier Iranian barrages at Kuwait and Bahrain failed or were intercepted.",
     "lat": 29.2266,
     "lng": 47.9689,
     "tid": "iran-drone-missile-attack-kuwait-airport-t1-jun3",
     "tn": "Kuwait Airport T1 hit",
     "dmg": 28,
-    "cas": 64,
-    "dl": "GULF ESCALATION — Iranian drones and missiles hit Kuwait airport's T1 terminal, killing one person, wounding more than 60 and forcing diversions",
+    "cas": 2,
+    "dl": "GULF ESCALATION — Iranian drones and missiles hit Kuwait airport's T1 terminal, injuring civilians and forcing flight diversions",
     "dc": "dmg-major",
     "sources": [
       {
@@ -14815,14 +14815,6 @@
       {
         "name": "Reuters, June 3 — Iran drone and missile attack hits Kuwait airport, state news agency says",
         "url": "https://www.reuters.com/world/middle-east/iran-drone-missile-attack-hits-kuwait-airport-state-news-agency-says-2026-06-03/"
-      },
-      {
-        "name": "BBC, June 4 — One killed and more than 60 injured in Iranian drone strikes on Kuwait airport",
-        "url": "https://www.bbc.com/news/articles/c5yx135yg53o"
-      },
-      {
-        "name": "Al Jazeera, June 4 — Kuwait says Iranian missile and drone attacks killed one and wounded more than 60",
-        "url": "https://www.aljazeera.com/news/2026/6/4/iran-war-day-97-tehran-says-no-progress-in-talks-israel-attacks-lebanon"
       }
     ]
   },
@@ -14935,122 +14927,6 @@
       {
         "name": "Reuters via Al-Monitor, June 3 — Gulf hostilities flare as talks stalemate",
         "url": "https://www.al-monitor.com/originals/2026/06/hostilities-flare-iran-war-oil-jumps-talks-stalemate"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-03",
-    "time": "evening",
-    "side": "us",
-    "title": "U.S. House passes war-powers rebuke seeking to curb Trump’s Iran campaign",
-    "detail": "The U.S. House of Representatives voted 215-208 for a war-powers resolution that would require President Donald Trump to seek congressional authorization for military action against Iran. Four Republicans joined Democrats in the largely symbolic rebuke, which came as talks over Iran’s enriched uranium stockpile, the Strait of Hormuz and a wider ceasefire remained stalled after the renewed Kuwait and Bahrain attacks.",
-    "lat": 38.9072,
-    "lng": -77.0369,
-    "tid": "us-house-war-powers-resolution-curbs-trump-iran-war-jun3",
-    "tn": "U.S. House war-powers vote",
-    "dmg": 0,
-    "cas": 0,
-    "dl": "WAR POWERS REBUKE — U.S. House votes 215-208 to require authorization for further Iran military action",
-    "dc": "dmg-strategic",
-    "sources": [
-      {
-        "name": "CBS News live, June 3 — House votes to rein in Trump on Iran as war loses GOP support",
-        "url": "https://www.cbsnews.com/live-updates/trump-iran-war-attacks-kuwait-airport-israel-hezbollah-ceasefire/"
-      },
-      {
-        "name": "The Hindu, June 4 — U.S. House votes to curb Trump on Iran war as talks stall",
-        "url": "https://www.thehindu.com/news/international/us-house-votes-to-curb-trump-on-iran-war-as-talks-stall/article71059994.ece"
-      },
-      {
-        "name": "Al Jazeera, June 4 — House votes 215-208 to require congressional authorization for Iran action",
-        "url": "https://www.aljazeera.com/news/2026/6/4/iran-war-day-97-tehran-says-no-progress-in-talks-israel-attacks-lebanon"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-04",
-    "time": "early morning",
-    "side": "diplomacy",
-    "title": "Israel and Lebanon agree conditional ceasefire and Hezbollah-free security zones",
-    "detail": "After U.S.-mediated talks in Washington, Israel and Lebanon agreed to renew and implement a conditional ceasefire tied to a complete cessation of Hezbollah fire, the withdrawal of Hezbollah operatives south of the Litani River and pilot security zones under exclusive Lebanese army control. The framework was linked to wider U.S.-Iran diplomacy because Tehran and Hezbollah had demanded that the Lebanon front be included in any durable end to the war.",
-    "lat": 38.9072,
-    "lng": -77.0369,
-    "tid": "israel-lebanon-conditional-ceasefire-security-zones-jun4",
-    "tn": "Israel-Lebanon ceasefire framework",
-    "dmg": 0,
-    "cas": 0,
-    "dl": "CEASEFIRE FRAMEWORK — Israel and Lebanon agree a U.S.-brokered conditional truce and Hezbollah-free security zones south of the Litani",
-    "dc": "dmg-strategic",
-    "sources": [
-      {
-        "name": "CBS News live, June 3/4 — Israel and Lebanon agree to renew ceasefire and create security zones",
-        "url": "https://www.cbsnews.com/live-updates/trump-iran-war-attacks-kuwait-airport-israel-hezbollah-ceasefire/"
-      },
-      {
-        "name": "Gulf News live, June 4 — Lebanon, Israel agree to implement ceasefire following Washington talks",
-        "url": "https://gulfnews.com/world/mena/lebanon-israel-agree-conditional-ceasefire-after-washington-talks-amid-wider-us-iran-tensions-1.500562762"
-      },
-      {
-        "name": "Al Jazeera, June 4 — U.S. says Lebanon and Israel agreed to implement a ceasefire",
-        "url": "https://www.aljazeera.com/news/2026/6/4/iran-war-day-97-tehran-says-no-progress-in-talks-israel-attacks-lebanon"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-04",
-    "time": "morning",
-    "side": "israel",
-    "title": "Israeli strikes and south Lebanon shelling continue after truce announcement",
-    "detail": "Lebanese state media reported Israeli drone strikes along roads in several south Lebanon locations hours after the Washington ceasefire announcement, including a vehicle attack that wounded a couple and their daughter. UNIFIL said one peacekeeper died and two others were wounded after mortar shells hit a position in southern Lebanon, while Israeli Defense Minister Israel Katz said the IDF would continue fire and ground operations and retained U.S.-backed freedom to strike Beirut if Hezbollah attacked Israeli communities.",
-    "lat": 33.28,
-    "lng": 35.45,
-    "tid": "israeli-strikes-unifil-peacekeeper-killed-south-lebanon-jun4",
-    "tn": "Post-truce south Lebanon strikes",
-    "dmg": 14,
-    "cas": 6,
-    "dl": "TRUCE TESTED — Israeli strikes continue in south Lebanon and UNIFIL reports one peacekeeper killed and two wounded by shelling",
-    "dc": "dmg-moderate",
-    "sources": [
-      {
-        "name": "CBS News live, June 4 — UN says peacekeeper killed; Lebanon media reports Israeli strikes after truce renewal",
-        "url": "https://www.cbsnews.com/live-updates/trump-iran-war-attacks-kuwait-airport-israel-hezbollah-ceasefire/"
-      },
-      {
-        "name": "Gulf News live, June 4 — UN force says peacekeeper killed; Israeli strikes hit Lebanon after truce deal",
-        "url": "https://gulfnews.com/world/mena/lebanon-israel-agree-conditional-ceasefire-after-washington-talks-amid-wider-us-iran-tensions-1.500562762"
-      },
-      {
-        "name": "Al Jazeera, June 4 — Several wounded in Israeli drone attack on Zefta-Kfarwa road after ceasefire deal",
-        "url": "https://www.aljazeera.com/news/2026/6/4/iran-war-day-97-tehran-says-no-progress-in-talks-israel-attacks-lebanon"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-04",
-    "time": "morning",
-    "side": "diplomacy",
-    "title": "Iran says U.S. talks show no progress and links end of war to Lebanon",
-    "detail": "Foreign Minister Abbas Araghchi said communications with Washington remain open but that there has been “no tangible progress” toward ending the conflict. He defended Iran’s Gulf attacks as self-defense, warned that any Israeli attack on Beirut would trigger a full-scale resumption of war, and said the U.S.-Israel conflict with Tehran would end only when the Lebanon front also ended and Israeli forces withdrew.",
-    "lat": 35.6892,
-    "lng": 51.389,
-    "tid": "iran-no-progress-us-talks-links-war-end-lebanon-jun4",
-    "tn": "Iran talks/Lebanon linkage",
-    "dmg": 0,
-    "cas": 0,
-    "dl": "TALKS STALLED — Iran says U.S. channels remain open but no progress is tangible, and ties any end of war to Lebanon",
-    "dc": "dmg-strategic",
-    "sources": [
-      {
-        "name": "Al Jazeera, June 4 — Tehran says no progress in talks; Israel attacks Lebanon",
-        "url": "https://www.aljazeera.com/news/2026/6/4/iran-war-day-97-tehran-says-no-progress-in-talks-israel-attacks-lebanon"
-      },
-      {
-        "name": "CBS News live, June 3/4 — Iran foreign minister says no tangible progress and warns on Beirut",
-        "url": "https://www.cbsnews.com/live-updates/trump-iran-war-attacks-kuwait-airport-israel-hezbollah-ceasefire/"
-      },
-      {
-        "name": "Gulf News live, June 4 — Iran says war will only end when it ends in Lebanon",
-        "url": "https://gulfnews.com/world/mena/lebanon-israel-agree-conditional-ceasefire-after-washington-talks-amid-wider-us-iran-tensions-1.500562762"
       }
     ]
   }
