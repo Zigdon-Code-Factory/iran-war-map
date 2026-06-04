@@ -1836,6 +1836,18 @@
         "source": "Vantor via GlobalSecurity/Soar Atlas",
         "captureDate": "2026-03-06",
         "description": "Direct Vantor image shows Parchin rocket-propellant production buildings damaged or destroyed after precision strikes"
+      },
+      {
+        "url": "https://media.cnn.com/api/v1/images/stellar/prod/bakhtaran-damaged-airbus-2026-march-9.jpg?c=original",
+        "source": "Airbus via CNN",
+        "captureDate": "2026-03-09",
+        "description": "Airbus imagery published by CNN shows bomb damage at a missile base north of Kermanshah/Bakhtaran, with cratered roads and blocked tunnel entrances after U.S.-Israeli strikes."
+      },
+      {
+        "url": "https://media.cnn.com/api/v1/images/stellar/prod/bakhtaran-repaired-airbus-2026-may-8.jpg?c=original",
+        "source": "Airbus via CNN",
+        "captureDate": "2026-05-08",
+        "description": "Airbus imagery published by CNN shows the same missile base north of Kermanshah/Bakhtaran after Iran reopened tunnel entrances and repaired roads damaged by earlier strikes."
       }
     ]
   },
