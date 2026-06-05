@@ -67,6 +67,12 @@
         "source": "Planet Labs PBC via Fox News",
         "captureDate": "2026-03-01",
         "description": "Direct Fox-hosted Planet Labs image shows a smoke plume above Tehran after strikes on the capital."
+      },
+      {
+        "url": "https://dims.apnews.com/dims4/default/295cc59/2147483647/strip/true/crop/9020x5495+0+0/resize/599x365!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F63%2F94%2F1591591c24b919c977517f30e00e%2Fbd1c242e9e7d42f38ebe9ddbc1f5696e",
+        "source": "Vantor via AP News",
+        "captureDate": "2026-03-01",
+        "description": "Direct AP-hosted Vantor image shows damaged buildings at Ayatollah Ali Khamenei's official residence in Tehran."
       }
     ]
   },
@@ -999,6 +1005,12 @@
         "source": "Vantor via CBS News",
         "captureDate": "2026-03-02",
         "description": "Direct Vantor close-up shows new building damage at Natanz nuclear facility after March 2 strikes"
+      },
+      {
+        "url": "https://dims.apnews.com/dims4/default/2641771/2147483647/strip/true/crop/3000x1004+0+0/resize/599x200!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F02%2Ff8%2F4bbe3884b89b3f5d5e472e313709%2F6f3c1e3ad8d948539c1ba86e4daa4143",
+        "source": "Vantor via AP News",
+        "captureDate": "2026-03-02",
+        "description": "Direct AP-hosted before/after Vantor image shows new damage at the Natanz nuclear facility."
       }
     ]
   },
@@ -1198,6 +1210,12 @@
         "source": "NDTV high-resolution satellite imagery via Madhyamam",
         "captureDate": "2026-03-04",
         "description": "Before/after satellite imagery shows damage across Tehran's government district, including the Presidential Complex and IRGC headquarters after U.S.-Israeli strikes"
+      },
+      {
+        "url": "https://dims.apnews.com/dims4/default/574b068/2147483647/strip/true/crop/6441x5088+0+0/resize/599x473!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0b%2F51%2F960cf1a8ea5a3993e0b54bf38b61%2Fe19a634ef14a4b3aa37f18e91c8dafbf",
+        "source": "Vantor via AP News",
+        "captureDate": "2026-03-03",
+        "description": "Direct AP-hosted Vantor image shows damage after airstrikes on Iran's IRGC headquarters in Tehran."
       }
     ]
   },
@@ -1380,6 +1398,12 @@
         "source": "Vantor via AP News",
         "captureDate": "2026-03-04",
         "description": "Direct AP-hosted Vantor image shows a destroyed drone storage building and cratered airstrip at Konarak drone base"
+      },
+      {
+        "url": "https://dims.apnews.com/dims4/default/66ff0f2/2147483647/strip/true/crop/17981x11981+0+3/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8f%2F43%2Ffb4c88db69bdce73d0674527494d%2F1bc98f8945ed4ffc8037bdd00bd78068",
+        "source": "Planet Labs PBC via AP News",
+        "captureDate": "2026-03-02",
+        "description": "Direct AP-hosted Planet Labs image shows fires burning on ships after a U.S. strike on a port in Bandar Abbas."
       }
     ]
   },
@@ -1848,6 +1872,12 @@
         "source": "Airbus via CNN",
         "captureDate": "2026-05-08",
         "description": "Airbus imagery published by CNN shows the same missile base north of Kermanshah/Bakhtaran after Iran reopened tunnel entrances and repaired roads damaged by earlier strikes."
+      },
+      {
+        "url": "https://dims.apnews.com/dims4/default/c902ef8/2147483647/strip/true/crop/8315x5365+0+0/resize/599x386!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F75%2F90%2F16e86da40760234cba78abb3afc0%2F9d8b4674b7904a3c9d4ec99e9d3bd557",
+        "source": "Vantor via AP News",
+        "captureDate": "2026-03-02",
+        "description": "Direct AP-hosted Vantor image shows destroyed buildings and equipment at the Choqa Balk-e drone facility west of Kermanshah."
       }
     ]
   },
