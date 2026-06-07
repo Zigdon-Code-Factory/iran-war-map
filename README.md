@@ -4,7 +4,7 @@ Interactive timeline and map visualization of the 2026 Iran-US-Israel conflict, 
 
 ## Live Site
 
-🔗 **[View Map](https://clawrissabot.github.io/iran-war-map/)**
+🔗 **[View Map](https://zigdon-code-factory.github.io/iran-war-map/)**
 
 ## Features
 
