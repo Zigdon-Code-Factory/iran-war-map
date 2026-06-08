@@ -249,6 +249,12 @@
         "source": "Planet Labs PBC via AP/MRT",
         "captureDate": "2026-03-02",
         "description": "Direct image shows ships burning at Bandar Abbas after strikes on Iranian naval vessels"
+      },
+      {
+        "url": "https://www.aljazeera.com/features/2026/6/8/satellite-images-show-destruction-of-the-us-israel-war-on-iran",
+        "source": "Planet Labs PBC via Al Jazeera OSU",
+        "captureDate": "2026-03-02",
+        "description": "Planet Labs imagery shows extensive strike damage at Bandar Abbas Naval Base, including a direct hit on IRIS Makran with visible fires and thick smoke, plus a large blaze inside the base."
       }
     ]
   },
@@ -343,6 +349,12 @@
         "source": "Planet Labs PBC via AP/MRT",
         "captureDate": "2026-03-06",
         "description": "Direct Planet Labs image shows damage at the U.S. Navy 5th Fleet headquarters area in Manama, Bahrain"
+      },
+      {
+        "url": "https://www.aljazeera.com/features/2026/6/8/satellite-images-show-destruction-of-the-us-israel-war-on-iran",
+        "source": "Planet Labs PBC via Al Jazeera OSU",
+        "captureDate": "2026-03-01",
+        "description": "Planet Labs imagery shows extensive structural damage at the U.S. Fifth Fleet headquarters in Manama, including direct hits to multiple radar domes and damage to vital facilities and buildings."
       }
     ]
   },
@@ -398,6 +410,12 @@
         "source": "Planet Labs PBC / Washington Post via Orbital Today",
         "captureDate": "2026-03-04",
         "description": "Direct image showing damage at Camp Arifjan in Kuwait visible in March 4 satellite imagery"
+      },
+      {
+        "url": "https://www.aljazeera.com/features/2026/6/8/satellite-images-show-destruction-of-the-us-israel-war-on-iran",
+        "source": "Airbus via Al Jazeera OSU",
+        "captureDate": "2026-03-01",
+        "description": "High-resolution Airbus imagery shows damage across nine locations at Ali Al Salem Air Base, concentrated around tent areas and logistics facilities after debris from intercepted Iranian ballistic missiles fell on the base."
       }
     ]
   },
@@ -471,6 +489,12 @@
         "source": "Airbus Defence and Space via AP/MRT",
         "captureDate": "2026-03-15",
         "description": "Direct Airbus image shows hangar damage at Al Dhafra Air Base after Iranian attacks on Abu Dhabi"
+      },
+      {
+        "url": "https://www.aljazeera.com/features/2026/6/8/satellite-images-show-destruction-of-the-us-israel-war-on-iran",
+        "source": "Sentinel / Airbus via Al Jazeera OSU",
+        "captureDate": "2026-04-07",
+        "description": "European Sentinel and high-resolution Airbus imagery shows new damage at Al Dhafra Air Base, including direct hits on several main aircraft hangars."
       }
     ]
   },
@@ -559,6 +583,12 @@
         "source": "Planet Labs PBC",
         "captureDate": "2026-03-09",
         "description": "Satellite imagery shows damage to satellite dishes at Al Udeid Air Base in Qatar"
+      },
+      {
+        "url": "https://www.aljazeera.com/features/2026/6/8/satellite-images-show-destruction-of-the-us-israel-war-on-iran",
+        "source": "Planet Labs PBC / Airbus via Al Jazeera OSU",
+        "captureDate": "2026-04-04",
+        "description": "Planet Labs and Airbus imagery shows strike damage at Al Udeid Air Base across three locations: a destroyed logistics operations building, structural damage to a small aircraft shelter, and minor damage inside Camp Andy."
       }
     ]
   },
@@ -4600,6 +4630,14 @@
         "name": "ISW",
         "url": "https://understandingwar.org/research/middle-east/iran-update-evening-special-report-march-22-2026/"
       }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://www.aljazeera.com/features/2026/6/8/satellite-images-show-destruction-of-the-us-israel-war-on-iran",
+        "source": "Airbus via Al Jazeera OSU",
+        "captureDate": "2026-04-10",
+        "description": "High-resolution Airbus imagery shows collapsed roofs, severe structural damage to northern hangars and technical facilities, debris, and burn marks at Fath Air Base near Karaj."
+      }
     ]
   },
   {
@@ -6001,6 +6039,12 @@
         "source": "Sentinel-2",
         "captureDate": "2026-03-27",
         "description": "Satellite imagery showing three US KC-135 Stratotankers destroyed and burning at Prince Sultan Air Base after Iranian missile/drone strike"
+      },
+      {
+        "url": "https://www.aljazeera.com/features/2026/6/8/satellite-images-show-destruction-of-the-us-israel-war-on-iran",
+        "source": "Sentinel-2 via Al Jazeera OSU",
+        "captureDate": "2026-03-29",
+        "description": "Sentinel-2 imagery shows damage at Prince Sultan Air Base after Iranian missile and drone attacks, including charring, adjacent structural damage, and a direct strike impact on a main runway leading to aircraft parking."
       }
     ]
   },
@@ -7348,6 +7392,14 @@
         "name": "Gulf News",
         "url": "https://gulfnews.com/world/mena/usisrael-war-on-iran-day-33-trump-says-conflict-could-end-in-two-weeks-maybe-three-kuwait-airport-hit-by-drone-attacks-1.500492706"
       }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://www.aljazeera.com/features/2026/6/8/satellite-images-show-destruction-of-the-us-israel-war-on-iran",
+        "source": "Planet Labs PBC / Airbus via Al Jazeera OSU",
+        "captureDate": "2026-04-01",
+        "description": "Al Jazeera Open Source Unit reports Planet Labs and Airbus imagery captured between Feb. 26 and Apr. 1 showing extensive destruction at 11 locations across the Bandar Abbas port complex, including damaged warehouses and a docked vessel."
+      }
     ]
   },
   {
@@ -8690,6 +8742,14 @@
       {
         "name": "Reuters",
         "url": "https://www.reuters.com/world/middle-east/israeli-military-continues-strike-hezbollah-amid-lebanon-peace-talks-netanyahu-2026-04-15/"
+      }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://www.aljazeera.com/features/2026/6/8/satellite-images-show-destruction-of-the-us-israel-war-on-iran",
+        "source": "Planet Labs PBC / Airbus via Al Jazeera OSU",
+        "captureDate": "2026-04-14",
+        "description": "Planet Labs and Airbus imagery captured between Feb. 20 and Apr. 14 shows severe damage to approximately 725 buildings and facilities in Bint Jbeil during Israeli ground operations and air attacks."
       }
     ]
   },
