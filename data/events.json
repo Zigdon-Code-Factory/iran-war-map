@@ -5628,6 +5628,14 @@
         "name": "The Hindu",
         "url": "https://www.thehindu.com/news/international/iran-israel-war-highlights-west-asia-conflict-march-27-2026/article70790939.ece"
       }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://www.iranintl.com/en/202603303369",
+        "source": "Airbus via Institute for Science and Iran International",
+        "captureDate": "2026-03-28",
+        "description": "High-resolution Airbus imagery shows the main processing building and auxiliary building at Iran's Ardakan yellowcake production plant destroyed after the March 27 strike."
+      }
     ]
   },
   {
