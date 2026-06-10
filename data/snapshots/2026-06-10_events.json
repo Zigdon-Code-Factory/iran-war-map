@@ -15852,15 +15852,15 @@
     "date": "2026-06-09",
     "time": "morning",
     "side": "us",
-    "title": "Iranian drone downs U.S. Apache near Strait of Hormuz during blockade operations",
-    "detail": "A U.S. Army Apache attack helicopter went down near the Strait of Hormuz, with both crew members rescued uninjured in the U.S. military’s first sea-drone rescue. Trump later said Iran had shot down the helicopter and that the United States would respond; CBS News and ISW reported U.S. officials assessed that an Iranian Shahed drone struck the aircraft, while Iran denied involvement. The incident sharply escalated the Hormuz standoff amid U.S. blockade operations around Iranian oil shipments.",
+    "title": "U.S. Apache crashes near Strait of Hormuz during blockade operations",
+    "detail": "A U.S. Army Apache attack helicopter went down near the Strait of Hormuz, with Trump saying both crew members were rescued and uninjured. The cause remained unclear, but the crash occurred amid U.S. blockade operations around Iranian oil shipments and while Iran continued to restrict most traffic through the strategic waterway. Trump said a report would follow and again claimed a peace deal could be reached within days.",
     "lat": 26.5667,
     "lng": 56.25,
     "tid": "us-apache-crashes-near-strait-hormuz-jun9",
     "tn": "U.S. Apache crash near Hormuz",
-    "dmg": 45,
+    "dmg": 35,
     "cas": 0,
-    "dl": "HORMUZ SHOOTDOWN — Iranian drone assessed to have downed a U.S. Apache; both crew rescued",
+    "dl": "HORMUZ INCIDENT — U.S. Apache goes down near the Strait; both crew rescued without injury",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -15870,114 +15870,6 @@
       {
         "name": "CBS News live, June 9 — Trump says pilots of U.S. chopper near Strait of Hormuz are fine",
         "url": "https://www.cbsnews.com/live-updates/iran-war-trump-israel-strikes-ceasefire-lebanon-beirut/"
-      },
-      {
-        "name": "CBS News live, June 9 — Trump says Iranians shot down Apache and U.S. must respond",
-        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-peace-deal-israel/"
-      },
-      {
-        "name": "ISW Iran Update Special Report, June 9 — Iranian drone downed U.S. Apache near Oman",
-        "url": "https://understandingwar.org/research/middle-east/iran-update-special-report-june-9-2026/"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-09",
-    "time": "evening",
-    "side": "us",
-    "title": "U.S. strikes Iranian air-defense and radar targets near Strait of Hormuz",
-    "detail": "U.S. Central Command said it completed “self-defense strikes” on Iran after the Apache shootdown, targeting Iranian air defenses, ground control stations and surveillance radar sites near the Strait of Hormuz. CBS News reported that nearly 20 targets were hit and House Speaker Mike Johnson described the strikes as proportional and limited, while Trump called the response “very strong” and “very powerful.”",
-    "lat": 26.75,
-    "lng": 56.25,
-    "tid": "us-strikes-iran-radar-air-defense-hormuz-jun9",
-    "tn": "U.S. Hormuz strikes",
-    "dmg": 75,
-    "cas": 0,
-    "dl": "U.S. RETALIATION — CENTCOM hits nearly 20 Iranian air-defense, radar and control targets near Hormuz",
-    "dc": "dmg-heavy",
-    "sources": [
-      {
-        "name": "CBS News live, June 9-10 — U.S. forces hit nearly 20 Iranian targets after Apache downing",
-        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-peace-deal-israel/"
-      },
-      {
-        "name": "The Guardian live, June 10 — U.S. launches multiple waves of strikes on Iran after helicopter crash",
-        "url": "https://www.theguardian.com/world/live/2026/jun/10/iran-war-updates-missile-strikes-trump-us-retaliation-middle-east-crisis-war-live"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-10",
-    "time": "early morning",
-    "side": "iran",
-    "title": "Iran targets U.S. bases in Bahrain, Kuwait and Jordan after U.S. strikes",
-    "detail": "Iranian state media and the IRGC said Iran launched drone attacks on U.S. military installations in Bahrain and Kuwait and long-range missiles at Jordan’s Muwaffaq Salti Air Base after U.S. strikes on Iran. Jordan said it shot down five Iranian missiles aimed at the airbase, which has hosted U.S. F-35s and other aircraft, with no injuries; Kuwait and Bahrain sounded alerts and activated air defenses against incoming targets.",
-    "lat": 28.8,
-    "lng": 48.9,
-    "tid": "iran-targets-us-bases-bahrain-kuwait-jordan-jun10",
-    "tn": "Iran attacks regional U.S. bases",
-    "dmg": 65,
-    "cas": 0,
-    "dl": "IRAN RETALIATES — Drones target Bahrain and Kuwait; Jordan shoots down five missiles near U.S.-hosted airbase",
-    "dc": "dmg-heavy",
-    "sources": [
-      {
-        "name": "CBS News live, June 10 — Jordan shot down five Iranian missiles; Iran launched drones at Bahrain and Kuwait",
-        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-peace-deal-israel/"
-      },
-      {
-        "name": "The Guardian live, June 10 — Iran launches broad retaliatory attacks after U.S. strikes",
-        "url": "https://www.theguardian.com/world/live/2026/jun/10/iran-war-updates-missile-strikes-trump-us-retaliation-middle-east-crisis-war-live"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-10",
-    "time": "morning",
-    "side": "israel",
-    "title": "Israel expands south Lebanon strikes after Tyre toll rises to 11",
-    "detail": "Lebanon’s Health Ministry said 11 people were killed in Israeli airstrikes on Tyre on Tuesday, after Israel issued a citywide evacuation warning and struck Hezbollah-linked targets. On Wednesday the IDF issued fresh evacuation warnings for Ghassaniyeh, Houmine al-Faouqa and Ansariyeh, saying Hezbollah had violated the ceasefire and that Israeli forces would strike with force. The continued Lebanon campaign kept Iran’s ally Hezbollah under pressure despite the fragile pause in direct Israel-Iran fire.",
-    "lat": 33.2705,
-    "lng": 35.2033,
-    "tid": "israel-expands-south-lebanon-strikes-tyre-toll-jun10",
-    "tn": "Tyre toll and new Lebanon warnings",
-    "dmg": 70,
-    "cas": 11,
-    "dl": "LEBANON FRONT — Tyre strike toll reaches 11 as Israel warns three more villages before Hezbollah strikes",
-    "dc": "dmg-heavy",
-    "sources": [
-      {
-        "name": "The Guardian live, June 10 — Lebanon says 11 killed in Israeli airstrikes on Tyre",
-        "url": "https://www.theguardian.com/world/live/2026/jun/10/iran-war-updates-missile-strikes-trump-us-retaliation-middle-east-crisis-war-live"
-      },
-      {
-        "name": "Times of Israel live, June 10 — IDF warns Ghassaniyeh, Houmine al-Faouqa and Ansariyeh to evacuate",
-        "url": "https://www.timesofisrael.com/liveblog-june-10-2026/"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-10",
-    "time": "morning",
-    "side": "iran-allies",
-    "title": "Cargo ship security team exchanges fire with armed craft off Yemen",
-    "detail": "The United Kingdom Maritime Trade Operations agency said a cargo vessel was approached by a small craft carrying six armed people about 88 nautical miles southwest of Balhaf, Yemen. The ship’s armed security team exchanged fire with the craft, which turned away, and authorities opened an investigation. No group immediately claimed the incident, but it came as the Houthis threatened to resume attacks on Israeli-linked shipping in the Red Sea and Bab el-Mandeb corridor.",
-    "lat": 12.8,
-    "lng": 46.8,
-    "tid": "cargo-ship-exchanges-fire-armed-craft-yemen-jun10",
-    "tn": "Armed approach off Yemen",
-    "dmg": 35,
-    "cas": 0,
-    "dl": "RED SEA RISK — Cargo ship guards trade fire with armed craft southwest of Balhaf, Yemen",
-    "dc": "dmg-moderate",
-    "sources": [
-      {
-        "name": "The Guardian live, June 10 — cargo ship exchanges fire with gunmen off Yemen, UKMTO says",
-        "url": "https://www.theguardian.com/world/live/2026/jun/10/iran-war-updates-missile-strikes-trump-us-retaliation-middle-east-crisis-war-live"
-      },
-      {
-        "name": "Times of Israel live, June 10 — cargo vessel guards exchange fire with armed craft off Yemen coast",
-        "url": "https://www.timesofisrael.com/liveblog-june-10-2026/"
       }
     ]
   }
