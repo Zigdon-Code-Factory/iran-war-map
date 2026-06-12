@@ -16079,17 +16079,17 @@
   {
     "date": "2026-06-11",
     "time": "morning",
-    "side": "us",
-    "title": "U.S. disables tanker MT Jalveer enforcing Iran blockade off Oman",
-    "detail": "CENTCOM said U.S. forces disabled the Guinea-Bissau-flagged tanker M/T Jalveer in the Gulf of Oman at 11:20 p.m. ET on June 10 after the ship attempted to transport Iranian oil in violation of the U.S. blockade. A U.S. aircraft fired two Hellfire missiles into the engine room after the crew repeatedly failed to comply with directions, matching earlier maritime reports of an engine-room and funnel fire near Oman’s Shinas/Sohar coast. CENTCOM said Jalveer was the third tanker disabled that week and the ninth non-compliant vessel disabled since the April 13 blockade began; maritime authorities reported no environmental impact and monitored the Indian seafarers aboard.",
+    "side": "unknown",
+    "title": "Tanker MT Jalveer catches fire off Oman near the Hormuz crisis zone",
+    "detail": "Maritime authorities and regional media reported a fire in the engine room and funnel area of the tanker MT Jalveer near Oman’s Shinas/Sohar coast, about 21 nautical miles northeast of Sohar and close to the Strait of Hormuz. UKMTO cited local authorities as saying no environmental impact had been reported, while Oman and the Indian Embassy in Muscat monitored the incident and the safety of roughly 20 possible Indian seafarers. The cause remained under investigation and had not been confirmed as a conflict attack, but the incident added to regional shipping risk as Iran declared Hormuz closed.",
     "lat": 24.55,
     "lng": 56.95,
     "tid": "mt-jalveer-fire-off-shinas-sohar-oman-jun11",
-    "tn": "U.S. disables MT Jalveer",
-    "dmg": 65,
+    "tn": "MT Jalveer fire off Oman",
+    "dmg": 45,
     "cas": 0,
-    "dl": "BLOCKADE STRIKE — CENTCOM says U.S. aircraft disabled MT Jalveer with Hellfires after Iran-oil blockade violation",
-    "dc": "dmg-heavy",
+    "dl": "OMAN SHIPPING INCIDENT — MT Jalveer catches fire near Shinas/Sohar as Hormuz tensions spike",
+    "dc": "dmg-moderate",
     "sources": [
       {
         "name": "Muscat Daily, June 11 — Fire reported on board vessel near Shinas port",
@@ -16102,93 +16102,6 @@
       {
         "name": "Times Now live, June 11 — Vessel MT Jalveer with Indian sailors on board comes under attack off Oman coast",
         "url": "https://www.timesnownews.com/world/middle-east/iran-us-israel-war-live-updates-us-iran-news-trump-netanyahu-lebanon-irgc-attack-middle-east-latest-news-liveblog-154527693"
-      },
-      {
-        "name": "CENTCOM, June 11 — U.S. forces disable third oil tanker violating blockade in Gulf of Oman",
-        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4514268/us-forces-disable-3rd-oil-tanker-violating-blockade-in-gulf-of-oman/"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-11",
-    "time": "afternoon",
-    "side": "diplomacy",
-    "title": "Trump calls off planned Iran strikes and claims peace framework is close",
-    "detail": "President Trump abruptly canceled a new round of U.S. strikes that officials told NBC News were roughly three hours from launch, saying discussions with Iran had reached the highest level and that a settlement could be signed within days. CBS and NBC reported that Iran’s Foreign Ministry publicly pushed back, saying no final decision had been reached and that U.S. positions kept changing. CBS, citing Axios, said the reported memorandum would extend the ceasefire for 60 days, reopen the Strait of Hormuz and return shipping volumes toward prewar levels while talks continue on Iran’s nuclear program and sanctions relief.",
-    "lat": 38.8977,
-    "lng": -77.0365,
-    "tid": "trump-calls-off-iran-strikes-peace-framework-jun11",
-    "tn": "Strikes canceled; deal claimed",
-    "dmg": 50,
-    "cas": 0,
-    "dl": "DIPLOMATIC BREAKTHROUGH CLAIM — Trump cancels imminent strikes and says Iran deal is near; Tehran says no final decision",
-    "dc": "dmg-strategic",
-    "sources": [
-      {
-        "name": "NBC News live, June 11 — U.S. military was about three hours from strikes when Trump canceled them",
-        "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-us-strikes-iran-trump-hormuz-closed-rcna349554"
-      },
-      {
-        "name": "CBS News live, June 12 — Iran says agreement text largely finalized but no final conclusion yet",
-        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-peace-deal-agreement/"
-      },
-      {
-        "name": "The Hindu live, June 12 — Trump calls off latest threats to strike Iran, cites breakthrough in talks",
-        "url": "https://www.thehindu.com/news/international/us-israel-iran-war-live-updates-bandar-abbas-strikes-strait-of-hormuz-mojtaba-khamenei-donald-trump-tehran-deal-june-12-2026/article71092034.ece"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-12",
-    "time": "early morning",
-    "side": "iran",
-    "title": "Iran stops tanker in Hormuz as U.S. downs two Iranian drones targeting ships",
-    "detail": "Iranian state media said IRGC naval forces fired toward or confronted an oil tanker that attempted to transit the Strait of Hormuz without permission, forcing it to comply with Iran’s closure order. A senior U.S. official told NBC, CBS and RFE/RL that Iran also appeared to attempt strikes on commercial ships in the strait and that U.S. forces shot down two Iranian one-way attack drones. U.S. officials said some traffic through the strait continued despite Iran’s declared closure and the new maritime clash.",
-    "lat": 26.5667,
-    "lng": 56.25,
-    "tid": "iran-stops-tanker-us-downs-drones-hormuz-jun12",
-    "tn": "Hormuz tanker clash",
-    "dmg": 70,
-    "cas": 0,
-    "dl": "HORMUZ CLASH — Iran stops a tanker; U.S. shoots down two Iranian drones aimed at commercial shipping",
-    "dc": "dmg-heavy",
-    "sources": [
-      {
-        "name": "NBC News live, June 11-12 — U.S. military shot down two Iranian drones targeting commercial ships",
-        "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-us-strikes-iran-trump-hormuz-closed-rcna349554"
-      },
-      {
-        "name": "RFE/RL, June 12 — U.S. shoots down two Iranian drones near Hormuz as Trump hails impending peace deal",
-        "url": "https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html"
-      },
-      {
-        "name": "CBS News live, June 12 — Iran attempts to strike commercial ships transiting Strait of Hormuz, U.S. official says",
-        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-peace-deal-agreement/"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-12",
-    "time": "morning",
-    "side": "israel",
-    "title": "IDF says weeklong Lebanon operation killed 80 Hezbollah fighters and hit 310 targets",
-    "detail": "The Israeli military said it had killed 80 Hezbollah fighters and attacked roughly 310 targets tied to the Iran-backed group in southern Lebanon over the previous week. The IDF said the strikes were conducted alongside ground troops on the forward defense line to dismantle Hezbollah infrastructure and remove threats to Israeli civilians and troops. The update underscored that the Lebanon front remained active even as Washington and Tehran discussed a framework that Iran has said must include Lebanon de-escalation.",
-    "lat": 33.2705,
-    "lng": 35.2033,
-    "tid": "idf-weeklong-lebanon-operation-80-hezbollah-310-targets-jun12",
-    "tn": "IDF Lebanon weekly toll",
-    "dmg": 75,
-    "cas": 80,
-    "dl": "LEBANON FRONT — IDF says 80 Hezbollah fighters killed and 310 targets hit in one week",
-    "dc": "dmg-heavy",
-    "sources": [
-      {
-        "name": "CBS News live, June 12 — IDF says 80 Hezbollah fighters killed and approximately 310 targets attacked",
-        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-peace-deal-agreement/"
-      },
-      {
-        "name": "Times of India live, June 12 — IDF operational update says 80 Hezbollah militants killed, 310 targets hit",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-iran-war-news-live-updates-benjamin-netanyahu-donald-trump-mojtaba-khamenei-ceasefire-strait-of-hormuz-middle-east-strait-of-hormuz-war-news/liveblog/131646676.cms"
       }
     ]
   }
