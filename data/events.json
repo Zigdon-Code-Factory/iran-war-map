@@ -15621,6 +15621,14 @@
         "name": "ABC Australia live, June 8 — fresh wave of Iranian missiles targets central Israel",
         "url": "https://www.abc.net.au/news/2026-06-08/iran-fires-missiles-at-israel-us-trump-says-peace-deal-close/106770982"
       }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://www.timesofisrael.com/idf-confirms-damage-to-airbase-during-iranian-missile-attack-this-week/",
+        "source": "Sentinel-2 / Soar via Times of Israel",
+        "captureDate": "2026-06-08",
+        "description": "Low-resolution Sentinel-2 imagery processed by Copernicus Browser/Soar shows a discolored patch at Ramat David Airbase after Iran’s June 8 missile barrages; IDF later confirmed minor warehouse damage from falling fragments."
+      }
     ]
   },
   {
@@ -16044,6 +16052,20 @@
       {
         "name": "Times Now live, June 11 — Kuwaiti air defenses fire at incoming missiles; Bahrain sounds alerts",
         "url": "https://www.timesnownews.com/world/middle-east/iran-us-israel-war-live-updates-us-iran-news-trump-netanyahu-lebanon-irgc-attack-middle-east-latest-news-liveblog-154527693"
+      }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://en.isna.ir/news/1405032213067/Satellite-images-reveal-damage-to-US-radar-site-airbase-in-Bahrain",
+        "source": "Commercial satellite imagery via ISNA",
+        "captureDate": "2026-06-12",
+        "description": "ISNA-reported satellite imagery shows damage at Bahrain’s Jabal ad-Dukhan radar site and Shaikh Isa Air Base after Iranian missile and drone attacks."
+      },
+      {
+        "url": "https://defencesecurityasia.com/en/iran-ballistic-missile-strike-us-radar-bahrain-jabal-ad-dukhan-gulf-crisis/",
+        "source": "OSINT imagery via Defence Security Asia",
+        "captureDate": "2026-06-11",
+        "description": "OSINT imagery reportedly geolocated smoke rising from the Jabal ad-Dukhan radar installation during Iran’s June 11 retaliatory barrage against Bahrain."
       }
     ]
   },
