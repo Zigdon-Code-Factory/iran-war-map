@@ -16024,6 +16024,14 @@
         "name": "Times Now live, June 11 — CENTCOM releases video of additional self-defense strikes across Iran",
         "url": "https://www.timesnownews.com/world/middle-east/iran-us-israel-war-live-updates-us-iran-news-trump-netanyahu-lebanon-irgc-attack-middle-east-latest-news-liveblog-154527693"
       }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://understandingwar.org/research/middle-east/iran-update-special-report-june-11-2026/",
+        "source": "Commercial satellite imagery via ISW/CTP",
+        "captureDate": "2026-06-10",
+        "description": "ISW/CTP reported satellite imagery confirming U.S. strike damage at Bandar Abbas International Airport during the June 10 strike wave against Iranian surveillance, radar and air-defense targets near Hormuz."
+      }
     ]
   },
   {
@@ -16066,6 +16074,12 @@
         "source": "OSINT imagery via Defence Security Asia",
         "captureDate": "2026-06-11",
         "description": "OSINT imagery reportedly geolocated smoke rising from the Jabal ad-Dukhan radar installation during Iran’s June 11 retaliatory barrage against Bahrain."
+      },
+      {
+        "url": "https://defencesecurityasia.com/en/iran-ballistic-missile-strike-jordan-air-base-f16-f35-muwaffaq-al-salti-satellite-images/",
+        "source": "Sentinel-2 / commercial satellite imagery via Defence Security Asia",
+        "captureDate": "2026-06-11",
+        "description": "Low-resolution Sentinel-2 and commercial imagery reportedly showed scorch patterns, structural anomalies and possible blast signatures around aircraft shelters and flight-line infrastructure at Jordan’s Muwaffaq al-Salti Air Base after Iran’s June 10-11 barrage."
       }
     ]
   },
